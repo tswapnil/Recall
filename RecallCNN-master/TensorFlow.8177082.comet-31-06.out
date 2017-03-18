@@ -1,0 +1,3135 @@
+Initializing xy Array 
+[468 779 627 436 864]
+Predicted Label : cab
+ImageNet ID : n02930766
+Value Prob : 0.901077
+Predicted Label : 468
+Ground Label :468
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 468
+Value of d is : 779
+Value of d is : 627
+Value of d is : 436
+Value of d is : 864
+[713 742 534 553 526]
+Predicted Label : photocopier
+ImageNet ID : n03924679
+Value Prob : 0.145635
+Predicted Label : 713
+Ground Label :553
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 713
+Value of d is : 742
+Value of d is : 534
+Value of d is : 553
+Value of d is : 526
+[339 354 355 345 603]
+Predicted Label : sorrel
+ImageNet ID : n02389026
+Value Prob : 0.983256
+Predicted Label : 339
+Ground Label :339
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 339
+Value of d is : 354
+Value of d is : 355
+Value of d is : 345
+Value of d is : 603
+[584 893 748 772 600]
+Predicted Label : hair_slide
+ImageNet ID : n03476684
+Value Prob : 0.404938
+Predicted Label : 584
+Ground Label :584
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 584
+Value of d is : 893
+Value of d is : 748
+Value of d is : 772
+Value of d is : 600
+[745 686 786 866 441]
+Predicted Label : projector
+ImageNet ID : n04009552
+Value Prob : 0.12101
+Predicted Label : 745
+Ground Label :686
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 745
+Value of d is : 686
+Value of d is : 786
+Value of d is : 866
+Value of d is : 441
+[872 456 764 413 494]
+Predicted Label : tripod
+ImageNet ID : n04485082
+Value Prob : 0.397135
+Predicted Label : 872
+Ground Label :872
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 872
+Value of d is : 456
+Value of d is : 764
+Value of d is : 413
+Value of d is : 494
+[101 386 385 346 343]
+Predicted Label : tusker
+ImageNet ID : n01871265
+Value Prob : 0.743571
+Predicted Label : 101
+Ground Label :101
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 101
+Value of d is : 386
+Value of d is : 385
+Value of d is : 346
+Value of d is : 343
+[272 276 280 274 278]
+Predicted Label : coyote
+ImageNet ID : n02114855
+Value Prob : 0.877065
+Predicted Label : 272
+Ground Label :272
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 272
+Value of d is : 276
+Value of d is : 280
+Value of d is : 274
+Value of d is : 278
+[191 165 244 234 163]
+Predicted Label : Airedale
+ImageNet ID : n02096051
+Value Prob : 0.223181
+Predicted Label : 191
+Ground Label :213
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 191
+Value of d is : 165
+Value of d is : 244
+Value of d is : 234
+Value of d is : 163
+[748 857 765 588 520]
+Predicted Label : purse
+ImageNet ID : n04026417
+Value Prob : 0.175721
+Predicted Label : 748
+Ground Label :516
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 748
+Value of d is : 857
+Value of d is : 765
+Value of d is : 588
+Value of d is : 520
+[421 733 602 652 843]
+Predicted Label : bannister
+ImageNet ID : n02788148
+Value Prob : 0.122978
+Predicted Label : 421
+Ground Label :981
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 421
+Value of d is : 733
+Value of d is : 602
+Value of d is : 652
+Value of d is : 843
+[977 978 112 976 445]
+Predicted Label : sandbar
+ImageNet ID : n09421951
+Value Prob : 0.492271
+Predicted Label : 977
+Ground Label :975
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 977
+Value of d is : 978
+Value of d is : 112
+Value of d is : 976
+Value of d is : 445
+[705 829 547 565 888]
+Predicted Label : passenger_car
+ImageNet ID : n03895866
+Value Prob : 0.8391
+Predicted Label : 705
+Ground Label :705
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 705
+Value of d is : 829
+Value of d is : 547
+Value of d is : 565
+Value of d is : 888
+[ 70  78  79 815  73]
+Predicted Label : harvestman
+ImageNet ID : n01770081
+Value Prob : 0.994153
+Predicted Label : 70
+Ground Label :70
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 70
+Value of d is : 78
+Value of d is : 79
+Value of d is : 815
+Value of d is : 73
+[107   5 112   6 110]
+Predicted Label : jellyfish
+ImageNet ID : n01910747
+Value Prob : 0.97641
+Predicted Label : 107
+Ground Label :107
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 107
+Value of d is : 5
+Value of d is : 112
+Value of d is : 6
+Value of d is : 110
+[166 167 238 240 162]
+Predicted Label : Walker_hound
+ImageNet ID : n02089867
+Value Prob : 0.432783
+Predicted Label : 166
+Ground Label :167
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 166
+Value of d is : 167
+Value of d is : 238
+Value of d is : 240
+Value of d is : 162
+[478 519 553 492 526]
+Predicted Label : carton
+ImageNet ID : n02971356
+Value Prob : 0.928871
+Predicted Label : 478
+Ground Label :478
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 478
+Value of d is : 519
+Value of d is : 553
+Value of d is : 492
+Value of d is : 526
+[ 29   1  38  26 329]
+Predicted Label : axolotl
+ImageNet ID : n01632777
+Value Prob : 0.999999
+Predicted Label : 29
+Ground Label :29
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 29
+Value of d is : 1
+Value of d is : 38
+Value of d is : 26
+Value of d is : 329
+[280 298 335 278 277]
+Predicted Label : grey_fox
+ImageNet ID : n02120505
+Value Prob : 0.691889
+Predicted Label : 280
+Ground Label :343
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 280
+Value of d is : 298
+Value of d is : 335
+Value of d is : 278
+Value of d is : 277
+[771 507 664 550 707]
+Predicted Label : safe
+ImageNet ID : n04125021
+Value Prob : 0.99994
+Predicted Label : 771
+Ground Label :771
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 771
+Value of d is : 507
+Value of d is : 664
+Value of d is : 550
+Value of d is : 707
+[448 708 538 519 599]
+Predicted Label : birdhouse
+ImageNet ID : n02843684
+Value Prob : 0.73004
+Predicted Label : 448
+Ground Label :858
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 448
+Value of d is : 708
+Value of d is : 538
+Value of d is : 519
+Value of d is : 599
+[115 110 390 397 396]
+Predicted Label : sea_slug
+ImageNet ID : n01950731
+Value Prob : 0.85534
+Predicted Label : 115
+Ground Label :115
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 115
+Value of d is : 110
+Value of d is : 390
+Value of d is : 397
+Value of d is : 396
+[383 384 374 299 368]
+Predicted Label : Madagascar_cat
+ImageNet ID : n02497673
+Value Prob : 0.828304
+Predicted Label : 383
+Ground Label :383
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 383
+Value of d is : 384
+Value of d is : 374
+Value of d is : 299
+Value of d is : 368
+[937 938 973 991 108]
+Predicted Label : broccoli
+ImageNet ID : n07714990
+Value Prob : 0.976961
+Predicted Label : 937
+Ground Label :937
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 937
+Value of d is : 938
+Value of d is : 973
+Value of d is : 991
+Value of d is : 108
+[49 65 68 54 67]
+Predicted Label : African_crocodile
+ImageNet ID : n01697457
+Value Prob : 0.241681
+Predicted Label : 49
+Ground Label :65
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 49
+Value of d is : 65
+Value of d is : 68
+Value of d is : 54
+Value of d is : 67
+[230 232 231 229 256]
+Predicted Label : Shetland_sheepdog
+ImageNet ID : n02105855
+Value Prob : 0.449052
+Predicted Label : 230
+Ground Label :230
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 230
+Value of d is : 232
+Value of d is : 231
+Value of d is : 229
+Value of d is : 256
+[583 634 561 856 799]
+Predicted Label : guillotine
+ImageNet ID : n03467068
+Value Prob : 1.0
+Predicted Label : 583
+Ground Label :583
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 583
+Value of d is : 634
+Value of d is : 561
+Value of d is : 856
+Value of d is : 799
+[846 423 619 505 528]
+Predicted Label : table_lamp
+ImageNet ID : n04380533
+Value Prob : 0.567544
+Predicted Label : 846
+Ground Label :725
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 846
+Value of d is : 423
+Value of d is : 619
+Value of d is : 505
+Value of d is : 528
+[483 698 663 437 497]
+Predicted Label : castle
+ImageNet ID : n02980441
+Value Prob : 0.995024
+Predicted Label : 483
+Ground Label :483
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 483
+Value of d is : 698
+Value of d is : 663
+Value of d is : 437
+Value of d is : 497
+[227 236 158 237 173]
+Predicted Label : kelpie
+ImageNet ID : n02105412
+Value Prob : 0.961187
+Predicted Label : 227
+Ground Label :227
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 227
+Value of d is : 236
+Value of d is : 158
+Value of d is : 237
+Value of d is : 173
+[168 159 211 167 173]
+Predicted Label : redbone
+ImageNet ID : n02090379
+Value Prob : 0.735401
+Predicted Label : 168
+Ground Label :159
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 168
+Value of d is : 159
+Value of d is : 211
+Value of d is : 167
+Value of d is : 173
+[763 597 764 413 777]
+Predicted Label : revolver
+ImageNet ID : n04086273
+Value Prob : 0.997967
+Predicted Label : 763
+Ground Label :763
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 763
+Value of d is : 597
+Value of d is : 764
+Value of d is : 413
+Value of d is : 777
+[825 649 458 835 840]
+Predicted Label : stone_wall
+ImageNet ID : n04326547
+Value Prob : 0.968669
+Predicted Label : 825
+Ground Label :825
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 825
+Value of d is : 649
+Value of d is : 458
+Value of d is : 835
+Value of d is : 840
+[595 958 856 866 425]
+Predicted Label : harvester
+ImageNet ID : n03496892
+Value Prob : 0.977564
+Predicted Label : 595
+Ground Label :595
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 595
+Value of d is : 958
+Value of d is : 856
+Value of d is : 866
+Value of d is : 425
+[16 86 82 85 21]
+Predicted Label : bulbul
+ImageNet ID : n01560419
+Value Prob : 0.790674
+Predicted Label : 16
+Ground Label :16
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 16
+Value of d is : 86
+Value of d is : 82
+Value of d is : 85
+Value of d is : 21
+[498 762 663 698 832]
+Predicted Label : cinema
+ImageNet ID : n03032252
+Value Prob : 0.99028
+Predicted Label : 498
+Ground Label :498
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 498
+Value of d is : 762
+Value of d is : 663
+Value of d is : 698
+Value of d is : 832
+[727 538 668 900 832]
+Predicted Label : planetarium
+ImageNet ID : n03956157
+Value Prob : 0.998492
+Predicted Label : 727
+Ground Label :727
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 727
+Value of d is : 538
+Value of d is : 668
+Value of d is : 900
+Value of d is : 832
+[212 216 218 215 161]
+Predicted Label : English_setter
+ImageNet ID : n02100735
+Value Prob : 0.392593
+Predicted Label : 212
+Ground Label :558
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 212
+Value of d is : 216
+Value of d is : 218
+Value of d is : 215
+Value of d is : 161
+[398 401 753 766 771]
+Predicted Label : abacus
+ImageNet ID : n02666196
+Value Prob : 0.745924
+Predicted Label : 398
+Ground Label :398
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 398
+Value of d is : 401
+Value of d is : 753
+Value of d is : 766
+Value of d is : 771
+[733 523 638 459 445]
+Predicted Label : pole
+ImageNet ID : n03976657
+Value Prob : 0.56001
+Predicted Label : 733
+Ground Label :638
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 733
+Value of d is : 523
+Value of d is : 638
+Value of d is : 459
+Value of d is : 445
+[ 21  89  23  22 127]
+Predicted Label : kite
+ImageNet ID : n01608432
+Value Prob : 0.960028
+Predicted Label : 21
+Ground Label :21
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 21
+Value of d is : 89
+Value of d is : 23
+Value of d is : 22
+Value of d is : 127
+[445 716 639 638 843]
+Predicted Label : bikini
+ImageNet ID : n02837789
+Value Prob : 0.468766
+Predicted Label : 445
+Ground Label :638
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 445
+Value of d is : 716
+Value of d is : 639
+Value of d is : 638
+Value of d is : 843
+[756 427 412 463 876]
+Predicted Label : rain_barrel
+ImageNet ID : n04049303
+Value Prob : 0.973124
+Predicted Label : 756
+Ground Label :756
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 756
+Value of d is : 427
+Value of d is : 412
+Value of d is : 463
+Value of d is : 876
+[457 834 650 818 523]
+Predicted Label : bow_tie
+ImageNet ID : n02883205
+Value Prob : 0.266372
+Predicted Label : 457
+Ground Label :457
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 457
+Value of d is : 834
+Value of d is : 650
+Value of d is : 818
+Value of d is : 523
+[337 336 674 298 335]
+Predicted Label : beaver
+ImageNet ID : n02363005
+Value Prob : 0.367342
+Predicted Label : 337
+Ground Label :674
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 337
+Value of d is : 336
+Value of d is : 674
+Value of d is : 298
+Value of d is : 335
+[160 256 226 220 221]
+Predicted Label : Afghan_hound
+ImageNet ID : n02088094
+Value Prob : 0.980056
+Predicted Label : 160
+Ground Label :160
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 160
+Value of d is : 256
+Value of d is : 226
+Value of d is : 220
+Value of d is : 221
+[517 600 754 540 755]
+Predicted Label : crane
+ImageNet ID : n03126707
+Value Prob : 0.994645
+Predicted Label : 517
+Ground Label :517
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 517
+Value of d is : 600
+Value of d is : 754
+Value of d is : 540
+Value of d is : 755
+[726 634 666 583 471]
+Predicted Label : plane
+ImageNet ID : n03954731
+Value Prob : 0.95086
+Predicted Label : 726
+Ground Label :726
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 726
+Value of d is : 634
+Value of d is : 666
+Value of d is : 583
+Value of d is : 471
+[436 407 555 864 803]
+Predicted Label : beach_wagon
+ImageNet ID : n02814533
+Value Prob : 0.192223
+Predicted Label : 436
+Ground Label :436
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 436
+Value of d is : 407
+Value of d is : 555
+Value of d is : 864
+Value of d is : 803
+[109 973 955 997   5]
+Predicted Label : brain_coral
+ImageNet ID : n01917289
+Value Prob : 0.999558
+Predicted Label : 109
+Ground Label :109
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 109
+Value of d is : 973
+Value of d is : 955
+Value of d is : 997
+Value of d is : 5
+[247 230 218 169 217]
+Predicted Label : Saint_Bernard
+ImageNet ID : n02109525
+Value Prob : 0.0889317
+Predicted Label : 247
+Ground Label :361
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 247
+Value of d is : 230
+Value of d is : 218
+Value of d is : 169
+Value of d is : 217
+[565 867 675 569 858]
+Predicted Label : freight_car
+ImageNet ID : n03393912
+Value Prob : 1.0
+Predicted Label : 565
+Ground Label :565
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 565
+Value of d is : 867
+Value of d is : 675
+Value of d is : 569
+Value of d is : 858
+[852 714 767 584 752]
+Predicted Label : tennis_ball
+ImageNet ID : n04409515
+Value Prob : 0.608372
+Predicted Label : 852
+Ground Label :852
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 852
+Value of d is : 714
+Value of d is : 767
+Value of d is : 584
+Value of d is : 752
+[666 659 463 968 809]
+Predicted Label : mortar
+ImageNet ID : n03786901
+Value Prob : 0.949563
+Predicted Label : 666
+Ground Label :666
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 666
+Value of d is : 659
+Value of d is : 463
+Value of d is : 968
+Value of d is : 809
+[789 532 846 736 765]
+Predicted Label : shoji
+ImageNet ID : n04201297
+Value Prob : 0.187716
+Predicted Label : 789
+Ground Label :789
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 789
+Value of d is : 532
+Value of d is : 846
+Value of d is : 736
+Value of d is : 765
+[951 940 907 955 954]
+Predicted Label : lemon
+ImageNet ID : n07749582
+Value Prob : 0.392884
+Predicted Label : 951
+Ground Label :720
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 951
+Value of d is : 940
+Value of d is : 907
+Value of d is : 955
+Value of d is : 954
+[424 860 415 509 762]
+Predicted Label : barbershop
+ImageNet ID : n02791270
+Value Prob : 0.366728
+Predicted Label : 424
+Ground Label :424
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 424
+Value of d is : 860
+Value of d is : 415
+Value of d is : 509
+Value of d is : 762
+[158 151 237 265 266]
+Predicted Label : toy_terrier
+ImageNet ID : n02087046
+Value Prob : 0.42357
+Predicted Label : 158
+Ground Label :158
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 158
+Value of d is : 151
+Value of d is : 237
+Value of d is : 265
+Value of d is : 266
+[757 654 660 675 407]
+Predicted Label : recreational_vehicle
+ImageNet ID : n04065272
+Value Prob : 0.989726
+Predicted Label : 757
+Ground Label :757
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 757
+Value of d is : 654
+Value of d is : 660
+Value of d is : 675
+Value of d is : 407
+[548 598 851 556 827]
+Predicted Label : entertainment_center
+ImageNet ID : n03290653
+Value Prob : 0.968408
+Predicted Label : 548
+Ground Label :548
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 548
+Value of d is : 598
+Value of d is : 851
+Value of d is : 556
+Value of d is : 827
+[378 381 366 380 382]
+Predicted Label : capuchin
+ImageNet ID : n02492035
+Value Prob : 0.11991
+Predicted Label : 378
+Ground Label :369
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 378
+Value of d is : 381
+Value of d is : 366
+Value of d is : 380
+Value of d is : 382
+[23 21 93  8 80]
+Predicted Label : vulture
+ImageNet ID : n01616318
+Value Prob : 0.998993
+Predicted Label : 23
+Ground Label :23
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 23
+Value of d is : 21
+Value of d is : 93
+Value of d is : 8
+Value of d is : 80
+[163 611 700 243 161]
+Predicted Label : bloodhound
+ImageNet ID : n02088466
+Value Prob : 0.250088
+Predicted Label : 163
+Ground Label :163
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 163
+Value of d is : 611
+Value of d is : 700
+Value of d is : 243
+Value of d is : 161
+[959 923 809 828 566]
+Predicted Label : carbonara
+ImageNet ID : n07831146
+Value Prob : 0.997923
+Predicted Label : 959
+Ground Label :959
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 959
+Value of d is : 923
+Value of d is : 809
+Value of d is : 828
+Value of d is : 566
+[149   3   2   4 150]
+Predicted Label : dugong
+ImageNet ID : n02074367
+Value Prob : 0.864712
+Predicted Label : 149
+Ground Label :149
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 149
+Value of d is : 3
+Value of d is : 2
+Value of d is : 4
+Value of d is : 150
+[597 696 911 492 474]
+Predicted Label : holster
+ImageNet ID : n03527444
+Value Prob : 0.0918821
+Predicted Label : 597
+Ground Label :777
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 597
+Value of d is : 696
+Value of d is : 911
+Value of d is : 492
+Value of d is : 474
+[407 654 656 627 830]
+Predicted Label : ambulance
+ImageNet ID : n02701002
+Value Prob : 0.331015
+Predicted Label : 407
+Ground Label :627
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 407
+Value of d is : 654
+Value of d is : 656
+Value of d is : 627
+Value of d is : 830
+[934 852 700 999 434]
+Predicted Label : hotdog
+ImageNet ID : n07697537
+Value Prob : 0.161907
+Predicted Label : 934
+Ground Label :415
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 934
+Value of d is : 852
+Value of d is : 700
+Value of d is : 999
+Value of d is : 434
+[129 134 130 132 128]
+Predicted Label : spoonbill
+ImageNet ID : n02006656
+Value Prob : 0.992229
+Predicted Label : 129
+Ground Label :129
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 129
+Value of d is : 134
+Value of d is : 130
+Value of d is : 132
+Value of d is : 128
+[352 353 351 343 291]
+Predicted Label : impala
+ImageNet ID : n02422699
+Value Prob : 0.920745
+Predicted Label : 352
+Ground Label :352
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 352
+Value of d is : 353
+Value of d is : 351
+Value of d is : 343
+Value of d is : 291
+[993 991 996   8 947]
+Predicted Label : gyromitra
+ImageNet ID : n13037406
+Value Prob : 0.985473
+Predicted Label : 993
+Ground Label :993
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 993
+Value of d is : 991
+Value of d is : 996
+Value of d is : 8
+Value of d is : 947
+[467 788 415 509 582]
+Predicted Label : butcher_shop
+ImageNet ID : n02927161
+Value Prob : 0.357614
+Predicted Label : 467
+Ground Label :788
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 467
+Value of d is : 788
+Value of d is : 415
+Value of d is : 509
+Value of d is : 582
+[334 335 298 102  82]
+Predicted Label : porcupine
+ImageNet ID : n02346627
+Value Prob : 0.384892
+Predicted Label : 334
+Ground Label :334
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 334
+Value of d is : 335
+Value of d is : 298
+Value of d is : 102
+Value of d is : 82
+[977 978 976 975  34]
+Predicted Label : sandbar
+ImageNet ID : n09421951
+Value Prob : 0.917725
+Predicted Label : 977
+Ground Label :977
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 977
+Value of d is : 978
+Value of d is : 976
+Value of d is : 975
+Value of d is : 34
+[257 222 258 229 228]
+Predicted Label : Great_Pyrenees
+ImageNet ID : n02111500
+Value Prob : 0.68442
+Predicted Label : 257
+Ground Label :257
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 257
+Value of d is : 222
+Value of d is : 258
+Value of d is : 229
+Value of d is : 228
+[332 283 153 154 204]
+Predicted Label : Angora
+ImageNet ID : n02328150
+Value Prob : 0.820328
+Predicted Label : 332
+Ground Label :332
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 332
+Value of d is : 283
+Value of d is : 153
+Value of d is : 154
+Value of d is : 204
+[250 248 249 174 537]
+Predicted Label : Siberian_husky
+ImageNet ID : n02110185
+Value Prob : 0.555303
+Predicted Label : 250
+Ground Label :248
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 250
+Value of d is : 248
+Value of d is : 249
+Value of d is : 174
+Value of d is : 537
+[259 154 261 260 152]
+Predicted Label : Pomeranian
+ImageNet ID : n02112018
+Value Prob : 0.640637
+Predicted Label : 259
+Ground Label :259
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 259
+Value of d is : 154
+Value of d is : 261
+Value of d is : 260
+Value of d is : 152
+[276 294 293 275 272]
+Predicted Label : hyena
+ImageNet ID : n02117135
+Value Prob : 0.998708
+Predicted Label : 276
+Ground Label :276
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 276
+Value of d is : 294
+Value of d is : 293
+Value of d is : 275
+Value of d is : 272
+[243 180 179 242 245]
+Predicted Label : bull_mastiff
+ImageNet ID : n02108422
+Value Prob : 0.582414
+Predicted Label : 243
+Ground Label :180
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 243
+Value of d is : 180
+Value of d is : 179
+Value of d is : 242
+Value of d is : 245
+[159 246 168 163 211]
+Predicted Label : Rhodesian_ridgeback
+ImageNet ID : n02087394
+Value Prob : 0.839482
+Predicted Label : 159
+Ground Label :159
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 159
+Value of d is : 246
+Value of d is : 168
+Value of d is : 163
+Value of d is : 211
+[390 392 973 397  65]
+Predicted Label : eel
+ImageNet ID : n02526121
+Value Prob : 0.947135
+Predicted Label : 390
+Ground Label :390
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 390
+Value of d is : 392
+Value of d is : 973
+Value of d is : 397
+Value of d is : 65
+[590 782 487 754 485]
+Predicted Label : hand-held_computer
+ImageNet ID : n03485407
+Value Prob : 0.783327
+Predicted Label : 590
+Ground Label :590
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 590
+Value of d is : 782
+Value of d is : 487
+Value of d is : 754
+Value of d is : 485
+[103 391  58 344  50]
+Predicted Label : platypus
+ImageNet ID : n01873310
+Value Prob : 0.297533
+Predicted Label : 103
+Ground Label :103
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 103
+Value of d is : 391
+Value of d is : 58
+Value of d is : 344
+Value of d is : 50
+[646 858 506 958 698]
+Predicted Label : maze
+ImageNet ID : n03733281
+Value Prob : 0.999962
+Predicted Label : 646
+Ground Label :646
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 646
+Value of d is : 858
+Value of d is : 506
+Value of d is : 958
+Value of d is : 698
+[967 809 968 969 504]
+Predicted Label : espresso
+ImageNet ID : n07920052
+Value Prob : 0.381713
+Predicted Label : 967
+Ground Label :809
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 967
+Value of d is : 809
+Value of d is : 968
+Value of d is : 969
+Value of d is : 504
+[586 847 609 864 408]
+Predicted Label : half_track
+ImageNet ID : n03478589
+Value Prob : 0.939676
+Predicted Label : 586
+Ground Label :586
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 586
+Value of d is : 847
+Value of d is : 609
+Value of d is : 864
+Value of d is : 408
+[526 620 681 617 624]
+Predicted Label : desk
+ImageNet ID : n03179701
+Value Prob : 0.172053
+Predicted Label : 526
+Ground Label :620
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 526
+Value of d is : 620
+Value of d is : 681
+Value of d is : 617
+Value of d is : 624
+[331 330 335 104 332]
+Predicted Label : hare
+ImageNet ID : n02326432
+Value Prob : 0.744279
+Predicted Label : 331
+Ground Label :330
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 331
+Value of d is : 330
+Value of d is : 335
+Value of d is : 104
+Value of d is : 332
+[55 64 46 59 60]
+Predicted Label : green_snake
+ImageNet ID : n01729977
+Value Prob : 0.504854
+Predicted Label : 55
+Ground Label :55
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 55
+Value of d is : 64
+Value of d is : 46
+Value of d is : 59
+Value of d is : 60
+[824 697 614 578 470]
+Predicted Label : stole
+ImageNet ID : n04325704
+Value Prob : 0.14514
+Predicted Label : 824
+Ground Label :906
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 824
+Value of d is : 697
+Value of d is : 614
+Value of d is : 578
+Value of d is : 470
+[221 233 267 206 197]
+Predicted Label : Irish_water_spaniel
+ImageNet ID : n02102973
+Value Prob : 0.390373
+Predicted Label : 221
+Ground Label :183
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 221
+Value of d is : 233
+Value of d is : 267
+Value of d is : 206
+Value of d is : 197
+[844 528 804 761 771]
+Predicted Label : switch
+ImageNet ID : n04372370
+Value Prob : 0.999861
+Predicted Label : 844
+Ground Label :844
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 844
+Value of d is : 528
+Value of d is : 804
+Value of d is : 761
+Value of d is : 771
+[619 892 846 679 772]
+Predicted Label : lampshade
+ImageNet ID : n03637318
+Value Prob : 0.268744
+Predicted Label : 619
+Ground Label :528
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 619
+Value of d is : 892
+Value of d is : 846
+Value of d is : 679
+Value of d is : 772
+[21 91 23 22 94]
+Predicted Label : kite
+ImageNet ID : n01608432
+Value Prob : 0.870716
+Predicted Label : 21
+Ground Label :23
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 21
+Value of d is : 91
+Value of d is : 23
+Value of d is : 22
+Value of d is : 94
+[118 119 121 120 125]
+Predicted Label : Dungeness_crab
+ImageNet ID : n01978287
+Value Prob : 0.616485
+Predicted Label : 118
+Ground Label :118
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 118
+Value of d is : 119
+Value of d is : 121
+Value of d is : 120
+Value of d is : 125
+[324 325 326 322 318]
+Predicted Label : cabbage_butterfly
+ImageNet ID : n02280649
+Value Prob : 0.976464
+Predicted Label : 324
+Ground Label :324
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 324
+Value of d is : 325
+Value of d is : 326
+Value of d is : 322
+Value of d is : 318
+[ 46  40  31 937  32]
+Predicted Label : green_lizard
+ImageNet ID : n01693334
+Value Prob : 0.370813
+Predicted Label : 46
+Ground Label :937
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 46
+Value of d is : 40
+Value of d is : 31
+Value of d is : 937
+Value of d is : 32
+[366 379 367 373 371]
+Predicted Label : gorilla
+ImageNet ID : n02480855
+Value Prob : 0.957434
+Predicted Label : 366
+Ground Label :366
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 366
+Value of d is : 379
+Value of d is : 367
+Value of d is : 373
+Value of d is : 371
+[504 441 440 470 968]
+Predicted Label : coffee_mug
+ImageNet ID : n03063599
+Value Prob : 0.900002
+Predicted Label : 504
+Ground Label :504
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 504
+Value of d is : 441
+Value of d is : 440
+Value of d is : 470
+Value of d is : 968
+[256 233 226 197 205]
+Predicted Label : Newfoundland
+ImageNet ID : n02111277
+Value Prob : 0.723812
+Predicted Label : 256
+Ground Label :256
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 256
+Value of d is : 233
+Value of d is : 226
+Value of d is : 197
+Value of d is : 205
+[716 912 425 437 449]
+Predicted Label : picket_fence
+ImageNet ID : n03930313
+Value Prob : 0.28954
+Predicted Label : 716
+Ground Label :718
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 716
+Value of d is : 912
+Value of d is : 425
+Value of d is : 437
+Value of d is : 449
+[935 961 928 927 659]
+Predicted Label : mashed_potato
+ImageNet ID : n07711569
+Value Prob : 0.588378
+Predicted Label : 935
+Ground Label :935
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 935
+Value of d is : 961
+Value of d is : 928
+Value of d is : 927
+Value of d is : 659
+[655 522 774 775 491]
+Predicted Label : miniskirt
+ImageNet ID : n03770439
+Value Prob : 0.319142
+Predicted Label : 655
+Ground Label :608
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 655
+Value of d is : 522
+Value of d is : 774
+Value of d is : 775
+Value of d is : 491
+[476 865 509 800 843]
+Predicted Label : carousel
+ImageNet ID : n02966193
+Value Prob : 0.999976
+Predicted Label : 476
+Ground Label :476
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 476
+Value of d is : 865
+Value of d is : 509
+Value of d is : 800
+Value of d is : 843
+[969 967 441 968 504]
+Predicted Label : eggnog
+ImageNet ID : n07932039
+Value Prob : 0.846635
+Predicted Label : 969
+Ground Label :969
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 969
+Value of d is : 967
+Value of d is : 441
+Value of d is : 968
+Value of d is : 504
+[212 177 170 210 164]
+Predicted Label : English_setter
+ImageNet ID : n02100735
+Value Prob : 0.931901
+Predicted Label : 212
+Ground Label :212
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 212
+Value of d is : 177
+Value of d is : 170
+Value of d is : 210
+Value of d is : 164
+[147  34  33 344 149]
+Predicted Label : grey_whale
+ImageNet ID : n02066245
+Value Prob : 0.991015
+Predicted Label : 147
+Ground Label :147
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 147
+Value of d is : 34
+Value of d is : 33
+Value of d is : 344
+Value of d is : 149
+[270 269 273 296 222]
+Predicted Label : white_wolf
+ImageNet ID : n02114548
+Value Prob : 0.957216
+Predicted Label : 270
+Ground Label :270
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 270
+Value of d is : 269
+Value of d is : 273
+Value of d is : 296
+Value of d is : 222
+[771 778 478 844 664]
+Predicted Label : safe
+ImageNet ID : n04125021
+Value Prob : 0.999926
+Predicted Label : 771
+Ground Label :771
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 771
+Value of d is : 778
+Value of d is : 478
+Value of d is : 844
+Value of d is : 664
+[486 889 546 402 611]
+Predicted Label : cello
+ImageNet ID : n02992211
+Value Prob : 0.57032
+Predicted Label : 486
+Ground Label :486
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 486
+Value of d is : 889
+Value of d is : 546
+Value of d is : 402
+Value of d is : 611
+[511 817 436 751 479]
+Predicted Label : convertible
+ImageNet ID : n03100240
+Value Prob : 0.443507
+Predicted Label : 511
+Ground Label :479
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 511
+Value of d is : 817
+Value of d is : 436
+Value of d is : 751
+Value of d is : 479
+[949 956 989 957 990]
+Predicted Label : strawberry
+ImageNet ID : n07745940
+Value Prob : 0.999898
+Predicted Label : 949
+Ground Label :949
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 949
+Value of d is : 956
+Value of d is : 989
+Value of d is : 957
+Value of d is : 990
+[447 535 758 740 691]
+Predicted Label : binoculars
+ImageNet ID : n02841315
+Value Prob : 0.199123
+Predicted Label : 447
+Ground Label :686
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 447
+Value of d is : 535
+Value of d is : 758
+Value of d is : 740
+Value of d is : 691
+[841 474 824 903 735]
+Predicted Label : sweatshirt
+ImageNet ID : n04370456
+Value Prob : 0.238924
+Predicted Label : 841
+Ground Label :841
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 841
+Value of d is : 474
+Value of d is : 824
+Value of d is : 903
+Value of d is : 735
+[431 529 516 520 443]
+Predicted Label : bassinet
+ImageNet ID : n02804414
+Value Prob : 0.671347
+Predicted Label : 431
+Ground Label :516
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 431
+Value of d is : 529
+Value of d is : 516
+Value of d is : 520
+Value of d is : 443
+[989 311 318 308 321]
+Predicted Label : hip
+ImageNet ID : n12620546
+Value Prob : 0.846769
+Predicted Label : 989
+Ground Label :311
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 989
+Value of d is : 311
+Value of d is : 318
+Value of d is : 308
+Value of d is : 321
+[867 565 569 864 705]
+Predicted Label : trailer_truck
+ImageNet ID : n04467665
+Value Prob : 0.932339
+Predicted Label : 867
+Ground Label :867
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 867
+Value of d is : 565
+Value of d is : 569
+Value of d is : 864
+Value of d is : 705
+[887 591 532 884 868]
+Predicted Label : vestment
+ImageNet ID : n04532106
+Value Prob : 0.960852
+Predicted Label : 887
+Ground Label :887
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 887
+Value of d is : 591
+Value of d is : 532
+Value of d is : 884
+Value of d is : 868
+[948 945 582 952 954]
+Predicted Label : Granny_Smith
+ImageNet ID : n07742313
+Value Prob : 0.799016
+Predicted Label : 948
+Ground Label :948
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 948
+Value of d is : 945
+Value of d is : 582
+Value of d is : 952
+Value of d is : 954
+[221 267 266 265 183]
+Predicted Label : Irish_water_spaniel
+ImageNet ID : n02102973
+Value Prob : 0.667487
+Predicted Label : 221
+Ground Label :265
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 221
+Value of d is : 267
+Value of d is : 266
+Value of d is : 265
+Value of d is : 183
+[970 979 672 975 972]
+Predicted Label : alp
+ImageNet ID : n09193705
+Value Prob : 0.864418
+Predicted Label : 970
+Ground Label :970
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 970
+Value of d is : 979
+Value of d is : 672
+Value of d is : 975
+Value of d is : 972
+[199 192 193 196 252]
+Predicted Label : Scotch_terrier
+ImageNet ID : n02097298
+Value Prob : 0.554837
+Predicted Label : 199
+Ground Label :196
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 199
+Value of d is : 192
+Value of d is : 193
+Value of d is : 196
+Value of d is : 252
+[286 287 104 290 291]
+Predicted Label : cougar
+ImageNet ID : n02125311
+Value Prob : 0.997672
+Predicted Label : 286
+Ground Label :286
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 286
+Value of d is : 287
+Value of d is : 104
+Value of d is : 290
+Value of d is : 291
+[840 576 462 523 884]
+Predicted Label : swab
+ImageNet ID : n04367480
+Value Prob : 0.592901
+Predicted Label : 840
+Ground Label :872
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 840
+Value of d is : 576
+Value of d is : 462
+Value of d is : 523
+Value of d is : 884
+[975 536 449 978 460]
+Predicted Label : lakeside
+ImageNet ID : n09332890
+Value Prob : 0.30499
+Predicted Label : 975
+Ground Label :449
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 975
+Value of d is : 536
+Value of d is : 449
+Value of d is : 978
+Value of d is : 460
+[333 359 356 358 106]
+Predicted Label : hamster
+ImageNet ID : n02342885
+Value Prob : 0.873949
+Predicted Label : 333
+Ground Label :358
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 333
+Value of d is : 359
+Value of d is : 356
+Value of d is : 358
+Value of d is : 106
+[802 803 537 672 795]
+Predicted Label : snowmobile
+ImageNet ID : n04252077
+Value Prob : 0.964699
+Predicted Label : 802
+Ground Label :802
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 802
+Value of d is : 803
+Value of d is : 537
+Value of d is : 672
+Value of d is : 795
+[349 348 350 342 336]
+Predicted Label : bighorn
+ImageNet ID : n02415577
+Value Prob : 0.878919
+Predicted Label : 349
+Ground Label :349
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 349
+Value of d is : 348
+Value of d is : 350
+Value of d is : 342
+Value of d is : 336
+[46 40 26 38 27]
+Predicted Label : green_lizard
+ImageNet ID : n01693334
+Value Prob : 0.512238
+Predicted Label : 46
+Ground Label :46
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 46
+Value of d is : 40
+Value of d is : 26
+Value of d is : 38
+Value of d is : 27
+[894 799 648 789 896]
+Predicted Label : wardrobe
+ImageNet ID : n04550184
+Value Prob : 0.547714
+Predicted Label : 894
+Ground Label :493
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 894
+Value of d is : 799
+Value of d is : 648
+Value of d is : 789
+Value of d is : 896
+[58 67 65 60 52]
+Predicted Label : water_snake
+ImageNet ID : n01737021
+Value Prob : 0.322195
+Predicted Label : 58
+Ground Label :57
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 58
+Value of d is : 67
+Value of d is : 65
+Value of d is : 60
+Value of d is : 52
+[934 924 965 933 923]
+Predicted Label : hotdog
+ImageNet ID : n07697537
+Value Prob : 0.744981
+Predicted Label : 934
+Ground Label :934
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 934
+Value of d is : 924
+Value of d is : 965
+Value of d is : 933
+Value of d is : 923
+[373 376 371 374 380]
+Predicted Label : macaque
+ImageNet ID : n02487347
+Value Prob : 0.706036
+Predicted Label : 373
+Ground Label :373
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 373
+Value of d is : 376
+Value of d is : 371
+Value of d is : 374
+Value of d is : 380
+[506 545 798 646 577]
+Predicted Label : coil
+ImageNet ID : n03065424
+Value Prob : 0.237907
+Predicted Label : 506
+Ground Label :646
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 506
+Value of d is : 545
+Value of d is : 798
+Value of d is : 646
+Value of d is : 577
+[ 26  29 307  27 312]
+Predicted Label : common_newt
+ImageNet ID : n01630670
+Value Prob : 0.767694
+Predicted Label : 26
+Ground Label :32
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 26
+Value of d is : 29
+Value of d is : 307
+Value of d is : 27
+Value of d is : 312
+[39 46 41 42 43]
+Predicted Label : common_iguana
+ImageNet ID : n01677366
+Value Prob : 0.998911
+Predicted Label : 39
+Ground Label :39
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 39
+Value of d is : 46
+Value of d is : 41
+Value of d is : 42
+Value of d is : 43
+[878 810 916 401 921]
+Predicted Label : typewriter_keyboard
+ImageNet ID : n04505470
+Value Prob : 0.710289
+Predicted Label : 878
+Ground Label :878
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 878
+Value of d is : 810
+Value of d is : 916
+Value of d is : 401
+Value of d is : 921
+[588 626 711 844 629]
+Predicted Label : hamper
+ImageNet ID : n03482405
+Value Prob : 0.418844
+Predicted Label : 588
+Ground Label :588
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 588
+Value of d is : 626
+Value of d is : 711
+Value of d is : 844
+Value of d is : 629
+[487 761 754 673 662]
+Predicted Label : cellular_telephone
+ImageNet ID : n02992529
+Value Prob : 0.866995
+Predicted Label : 487
+Ground Label :487
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 487
+Value of d is : 761
+Value of d is : 754
+Value of d is : 673
+Value of d is : 662
+[922 923 966 925 924]
+Predicted Label : menu
+ImageNet ID : n07565083
+Value Prob : 0.67799
+Predicted Label : 922
+Ground Label :934
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 922
+Value of d is : 923
+Value of d is : 966
+Value of d is : 925
+Value of d is : 924
+[ 92 319  94  91 141]
+Predicted Label : bee_eater
+ImageNet ID : n01828970
+Value Prob : 0.33835
+Predicted Label : 92
+Ground Label :92
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 92
+Value of d is : 319
+Value of d is : 94
+Value of d is : 91
+Value of d is : 141
+[751 407 864 468 871]
+Predicted Label : racer
+ImageNet ID : n04037443
+Value Prob : 0.881704
+Predicted Label : 751
+Ground Label :751
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 751
+Value of d is : 407
+Value of d is : 864
+Value of d is : 468
+Value of d is : 871
+[222 355 270 354 568]
+Predicted Label : kuvasz
+ImageNet ID : n02104029
+Value Prob : 0.435144
+Predicted Label : 222
+Ground Label :270
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 222
+Value of d is : 355
+Value of d is : 270
+Value of d is : 354
+Value of d is : 568
+[360 150 356 336  36]
+Predicted Label : otter
+ImageNet ID : n02444819
+Value Prob : 0.890802
+Predicted Label : 360
+Ground Label :150
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 360
+Value of d is : 150
+Value of d is : 356
+Value of d is : 336
+Value of d is : 36
+[277 278 280 274 272]
+Predicted Label : red_fox
+ImageNet ID : n02119022
+Value Prob : 0.844806
+Predicted Label : 277
+Ground Label :277
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 277
+Value of d is : 278
+Value of d is : 280
+Value of d is : 274
+Value of d is : 272
+[275 246 172 274 276]
+Predicted Label : African_hunting_dog
+ImageNet ID : n02116738
+Value Prob : 0.717082
+Predicted Label : 275
+Ground Label :275
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 275
+Value of d is : 246
+Value of d is : 172
+Value of d is : 274
+Value of d is : 276
+[664 851 468 916 782]
+Predicted Label : monitor
+ImageNet ID : n03782006
+Value Prob : 0.506522
+Predicted Label : 664
+Ground Label :717
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 664
+Value of d is : 851
+Value of d is : 468
+Value of d is : 916
+Value of d is : 782
+[687 497 421 884 905]
+Predicted Label : organ
+ImageNet ID : n03854065
+Value Prob : 0.999991
+Predicted Label : 687
+Ground Label :687
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 687
+Value of d is : 497
+Value of d is : 421
+Value of d is : 884
+Value of d is : 905
+[795 970 913 792 672]
+Predicted Label : ski
+ImageNet ID : n04228054
+Value Prob : 0.72016
+Predicted Label : 795
+Ground Label :970
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 795
+Value of d is : 970
+Value of d is : 913
+Value of d is : 792
+Value of d is : 672
+[448 596 703 677 114]
+Predicted Label : birdhouse
+ImageNet ID : n02843684
+Value Prob : 0.699465
+Predicted Label : 448
+Ground Label :703
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 448
+Value of d is : 596
+Value of d is : 703
+Value of d is : 677
+Value of d is : 114
+[591 496 721 868 411]
+Predicted Label : handkerchief
+ImageNet ID : n03485794
+Value Prob : 0.994919
+Predicted Label : 591
+Ground Label :591
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 591
+Value of d is : 496
+Value of d is : 721
+Value of d is : 868
+Value of d is : 411
+[283 281 282 260 287]
+Predicted Label : Persian_cat
+ImageNet ID : n02123394
+Value Prob : 0.993574
+Predicted Label : 283
+Ground Label :283
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 283
+Value of d is : 281
+Value of d is : 282
+Value of d is : 260
+Value of d is : 287
+[473 861 700 589 999]
+Predicted Label : can_opener
+ImageNet ID : n02951585
+Value Prob : 0.379509
+Predicted Label : 473
+Ground Label :473
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 473
+Value of d is : 861
+Value of d is : 700
+Value of d is : 589
+Value of d is : 999
+[981 752 781 842 805]
+Predicted Label : ballplayer
+ImageNet ID : n09835506
+Value Prob : 0.47654
+Predicted Label : 981
+Ground Label :842
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 981
+Value of d is : 752
+Value of d is : 781
+Value of d is : 842
+Value of d is : 805
+[21 23 24 22 82]
+Predicted Label : kite
+ImageNet ID : n01608432
+Value Prob : 0.658784
+Predicted Label : 21
+Ground Label :22
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 21
+Value of d is : 23
+Value of d is : 24
+Value of d is : 22Using TensorFlow backend.
+
+Value of d is : 82
+[647 438 441 899 828]
+Predicted Label : measuring_cup
+ImageNet ID : n03733805
+Value Prob : 0.587616
+Predicted Label : 647
+Ground Label :647
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 647
+Value of d is : 438
+Value of d is : 441
+Value of d is : 899
+Value of d is : 828
+[334 102  48 362 298]
+Predicted Label : porcupine
+ImageNet ID : n02346627
+Value Prob : 0.92794
+Predicted Label : 334
+Ground Label :334
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 334
+Value of d is : 102
+Value of d is : 48
+Value of d is : 362
+Value of d is : 298
+[484 780 724 914 871]
+Predicted Label : catamaran
+ImageNet ID : n02981792
+Value Prob : 0.516216
+Predicted Label : 484
+Ground Label :780
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 484
+Value of d is : 780
+Value of d is : 724
+Value of d is : 914
+Value of d is : 871
+[887 406 857 501 689]
+Predicted Label : vestment
+ImageNet ID : n04532106
+Value Prob : 0.999925
+Predicted Label : 887
+Ground Label :887
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 887
+Value of d is : 406
+Value of d is : 857
+Value of d is : 501
+Value of d is : 689
+[637 844 412 710 695]
+Predicted Label : mailbox
+ImageNet ID : n03710193
+Value Prob : 0.743281
+Predicted Label : 637
+Ground Label :637
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 637
+Value of d is : 844
+Value of d is : 412
+Value of d is : 710
+Value of d is : 695
+[480 571 886 799 743]
+Predicted Label : cash_machine
+ImageNet ID : n02977058
+Value Prob : 0.744887
+Predicted Label : 480
+Ground Label :664
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 480
+Value of d is : 571
+Value of d is : 886
+Value of d is : 799
+Value of d is : 743
+[202 201 191 184 187]
+Predicted Label : soft-coated_wheaten_terrier
+ImageNet ID : n02098105
+Value Prob : 0.405081
+Predicted Label : 202
+Ground Label :201
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 202
+Value of d is : 201
+Value of d is : 191
+Value of d is : 184
+Value of d is : 187
+[735 474 911 824 841]
+Predicted Label : poncho
+ImageNet ID : n03980874
+Value Prob : 0.543117
+Predicted Label : 735
+Ground Label :474
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 735
+Value of d is : 474
+Value of d is : 911
+Value of d is : 824
+Value of d is : 841
+[77 32 26 28 58]
+Predicted Label : wolf_spider
+ImageNet ID : n01775062
+Value Prob : 0.268597
+Predicted Label : 77
+Ground Label :28
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 77
+Value of d is : 32
+Value of d is : 26
+Value of d is : 28
+Value of d is : 58
+[396 115 973 108 328]
+Predicted Label : lionfish
+ImageNet ID : n02643566
+Value Prob : 0.999922
+Predicted Label : 396
+Ground Label :396
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 396
+Value of d is : 115
+Value of d is : 973
+Value of d is : 108
+Value of d is : 328
+[389 467 568 824 391]
+Predicted Label : barracouta
+ImageNet ID : n02514041
+Value Prob : 0.341777
+Predicted Label : 389
+Ground Label :394
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 389
+Value of d is : 467
+Value of d is : 568
+Value of d is : 824
+Value of d is : 391
+[236 165 234 237 238]
+Predicted Label : Doberman
+ImageNet ID : n02107142
+Value Prob : 0.419617
+Predicted Label : 236
+Ground Label :236
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 236
+Value of d is : 165
+Value of d is : 234
+Value of d is : 237
+Value of d is : 238
+[50 44 49 41 46]
+Predicted Label : American_alligator
+ImageNet ID : n01698640
+Value Prob : 0.786358
+Predicted Label : 50
+Ground Label :50
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 50
+Value of d is : 44
+Value of d is : 49
+Value of d is : 41
+Value of d is : 46
+[184 175 170 207 185]
+Predicted Label : Irish_terrier
+ImageNet ID : n02093991
+Value Prob : 0.657602
+Predicted Label : 184
+Ground Label :175
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 184
+Value of d is : 175
+Value of d is : 170
+Value of d is : 207
+Value of d is : 185
+[573 408 561 575 751]
+Predicted Label : go-kart
+ImageNet ID : n03444034
+Value Prob : 0.67556
+Predicted Label : 573
+Ground Label :573
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 573
+Value of d is : 408
+Value of d is : 561
+Value of d is : 575
+Value of d is : 751
+[274 273 272 277 271]
+Predicted Label : dhole
+ImageNet ID : n02115913
+Value Prob : 0.996379
+Predicted Label : 274
+Ground Label :272
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 274
+Value of d is : 273
+Value of d is : 272
+Value of d is : 277
+Value of d is : 271
+[781 498 398 800 401]
+Predicted Label : scoreboard
+ImageNet ID : n04149813
+Value Prob : 0.880268
+Predicted Label : 781
+Ground Label :781
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 781
+Value of d is : 498
+Value of d is : 398
+Value of d is : 800
+Value of d is : 401
+[231 230 169 160 157]
+Predicted Label : collie
+ImageNet ID : n02106030
+Value Prob : 0.552076
+Predicted Label : 231
+Ground Label :230
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 231
+Value of d is : 230
+Value of d is : 169
+Value of d is : 160
+Value of d is : 157
+[166 167 162 161 247]
+Predicted Label : Walker_hound
+ImageNet ID : n02089867
+Value Prob : 0.654045
+Predicted Label : 166
+Ground Label :167
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 166
+Value of d is : 167
+Value of d is : 162
+Value of d is : 161
+Value of d is : 247
+[198 196 202 190 212]
+Predicted Label : standard_schnauzer
+ImageNet ID : n02097209
+Value Prob : 0.449342
+Predicted Label : 198
+Ground Label :198
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 198
+Value of d is : 196
+Value of d is : 202
+Value of d is : 190
+Value of d is : 212
+[645 832 417 701 971]
+Predicted Label : maypole
+ImageNet ID : n03733131
+Value Prob : 0.999976
+Predicted Label : 645
+Ground Label :645
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 645
+Value of d is : 832
+Value of d is : 417
+Value of d is : 701
+Value of d is : 971
+[567 909 544 926 910]
+Predicted Label : frying_pan
+ImageNet ID : n03400231
+Value Prob : 0.322572
+Predicted Label : 567
+Ground Label :544
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 567
+Value of d is : 909
+Value of d is : 544
+Value of d is : 926
+Value of d is : 910
+[122 929 124 934 121]
+Predicted Label : American_lobster
+ImageNet ID : n01983481
+Value Prob : 0.643279
+Predicted Label : 122
+Ground Label :122
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 122
+Value of d is : 929
+Value of d is : 124
+Value of d is : 934
+Value of d is : 121
+[80 83 86 81 82]
+Predicted Label : black_grouse
+ImageNet ID : n01795545
+Value Prob : 0.984784
+Predicted Label : 80
+Ground Label :80
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 80
+Value of d is : 83
+Value of d is : 86
+Value of d is : 81
+Value of d is : 82
+[659 809 968 666 618]
+Predicted Label : mixing_bowl
+ImageNet ID : n03775546
+Value Prob : 0.995447
+Predicted Label : 659
+Ground Label :659
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 659
+Value of d is : 809
+Value of d is : 968
+Value of d is : 666
+Value of d is : 618
+[  1  29 552 862 749]
+Predicted Label : goldfish
+ImageNet ID : n01443537
+Value Prob : 0.488998
+Predicted Label : 1
+Ground Label :108
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 1
+Value of d is : 29
+Value of d is : 552
+Value of d is : 862
+Value of d is : 749
+[328 108 973 115 116]
+Predicted Label : sea_urchin
+ImageNet ID : n02319095
+Value Prob : 0.968512
+Predicted Label : 328
+Ground Label :328
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 328
+Value of d is : 108
+Value of d is : 973
+Value of d is : 115
+Value of d is : 116
+[632 482 848 754 481]
+Predicted Label : loudspeaker
+ImageNet ID : n03691459
+Value Prob : 0.94525
+Predicted Label : 632
+Ground Label :632
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 632
+Value of d is : 482
+Value of d is : 848
+Value of d is : 754
+Value of d is : 481
+[846 526 736 448 492]
+Predicted Label : table_lamp
+ImageNet ID : n04380533
+Value Prob : 0.66187
+Predicted Label : 846
+Ground Label :846
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 846
+Value of d is : 526
+Value of d is : 736
+Value of d is : 448
+Value of d is : 492
+[328 973 396 108 115]
+Predicted Label : sea_urchin
+ImageNet ID : n02319095
+Value Prob : 0.958448
+Predicted Label : 328
+Ground Label :328
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 328
+Value of d is : 973
+Value of d is : 396
+Value of d is : 108
+Value of d is : 115
+[30 58 25 32 35]
+Predicted Label : bullfrog
+ImageNet ID : n01641577
+Value Prob : 0.265299
+Predicted Label : 30
+Ground Label :58
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 30
+Value of d is : 58
+Value of d is : 25
+Value of d is : 32
+Value of d is : 35
+[142 141 140 307 133]
+Predicted Label : dowitcher
+ImageNet ID : n02033041
+Value Prob : 0.929053
+Predicted Label : 142
+Ground Label :142
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 142
+Value of d is : 141
+Value of d is : 140
+Value of d is : 307
+Value of d is : 133
+[173 162 161 263 253]
+Predicted Label : Ibizan_hound
+ImageNet ID : n02091244
+Value Prob : 0.237958
+Predicted Label : 173
+Ground Label :173
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 173
+Value of d is : 162
+Value of d is : 161
+Value of d is : 263
+Value of d is : 253
+[ 88 803 693 412 840]
+Predicted Label : macaw
+ImageNet ID : n01818515
+Value Prob : 0.425597
+Predicted Label : 88
+Ground Label :467
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 88
+Value of d is : 803
+Value of d is : 693
+Value of d is : 412
+Value of d is : 840
+[ 78  74  73 307  77]
+Predicted Label : tick
+ImageNet ID : n01776313
+Value Prob : 0.478528
+Predicted Label : 78
+Ground Label :74
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 78
+Value of d is : 74
+Value of d is : 73
+Value of d is : 307
+Value of d is : 77
+[397 115 390 973 392]
+Predicted Label : puffer
+ImageNet ID : n02655020
+Value Prob : 0.974371
+Predicted Label : 397
+Ground Label :392
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 397
+Value of d is : 115
+Value of d is : 390
+Value of d is : 973
+Value of d is : 392
+[289 285 290 288 287]
+Predicted Label : snow_leopard
+ImageNet ID : n02128757
+Value Prob : 0.675497
+Predicted Label : 289
+Ground Label :289
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 289
+Value of d is : 285
+Value of d is : 290
+Value of d is : 288
+Value of d is : 287
+[173 215 188 189 209]
+Predicted Label : Ibizan_hound
+ImageNet ID : n02091244
+Value Prob : 0.163653
+Predicted Label : 173
+Ground Label :173
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 173
+Value of d is : 215
+Value of d is : 188
+Value of d is : 189
+Value of d is : 209
+[787 971 875 513 475]
+Predicted Label : shield
+ImageNet ID : n04192698
+Value Prob : 0.250445
+Predicted Label : 787
+Ground Label :875
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Value of d is : 787
+Value of d is : 971
+Value of d is : 875
+Value of d is : 513
+Value of d is : 475
+[870 697 641 615 843]
+Predicted Label : tricycle
+ImageNet ID : n04482393
+Value Prob : 0.933958
+Predicted Label : 870
+Ground Label :870
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 870
+Value of d is : 697
+Value of d is : 641
+Value of d is : 615
+Value of d is : 843
+[461 524 469 725 666]
+Predicted Label : breastplate
+ImageNet ID : n02895154
+Value Prob : 0.49397
+Predicted Label : 461
+Ground Label :461
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 461
+Value of d is : 524
+Value of d is : 469
+Value of d is : 725
+Value of d is : 666
+[994  27 992 947 997]
+Predicted Label : stinkhorn
+ImageNet ID : n13040303
+Value Prob : 0.987059
+Predicted Label : 994
+Ground Label :994
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 994
+Value of d is : 27
+Value of d is : 992
+Value of d is : 947
+Value of d is : 997
+[140 142  10 139 141]
+Predicted Label : red-backed_sandpiper
+ImageNet ID : n02027492
+Value Prob : 0.983703
+Predicted Label : 140
+Ground Label :140
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 140
+Value of d is : 142
+Value of d is : 10
+Value of d is : 139
+Value of d is : 141
+[370 371 380 373 372]
+Predicted Label : guenon
+ImageNet ID : n02484975
+Value Prob : 0.996924
+Predicted Label : 370
+Ground Label :370
+<class 'numpy.int64'>
+<class 'int'>
+<class 'str'>
+<class 'str'>
+Found the matching labels
+Value of d is : 370
+Value of d is : 371
+Value of d is : 380
+Value of d is : 373
+Value of d is : 372
+Accuracy is : 0.635
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x2ae2c27d1e80>>
+Traceback (most recent call last):
+  File "/home/tswapnil/anaconda3/envs/tensorflowEnv/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 178, in __del__
+  File "/home/tswapnil/anaconda3/envs/tensorflowEnv/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 174, in close
+AttributeError: 'NoneType' object has no attribute 'raise_exception_on_not_ok_status'

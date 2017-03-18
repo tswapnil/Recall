@@ -1,0 +1,1331 @@
+Using TensorFlow backend.
+Initializing xy Array 
+[468 779 627 436 864]
+Predicted Label : cab
+ImageNet ID : n02930766
+Value Prob : 0.901077
+Predicted Label : 468
+Ground Label :468
+Found matching labels
+[713 742 534 553 526]
+Predicted Label : photocopier
+ImageNet ID : n03924679
+Value Prob : 0.145635
+Predicted Label : 713
+Ground Label :553
+[339 354 355 345 603]
+Predicted Label : sorrel
+ImageNet ID : n02389026
+Value Prob : 0.983256
+Predicted Label : 339
+Ground Label :339
+Found matching labels
+[584 893 748 772 600]
+Predicted Label : hair_slide
+ImageNet ID : n03476684
+Value Prob : 0.404938
+Predicted Label : 584
+Ground Label :584
+Found matching labels
+[745 686 786 866 441]
+Predicted Label : projector
+ImageNet ID : n04009552
+Value Prob : 0.12101
+Predicted Label : 745
+Ground Label :686
+[872 456 764 413 494]
+Predicted Label : tripod
+ImageNet ID : n04485082
+Value Prob : 0.397135
+Predicted Label : 872
+Ground Label :872
+Found matching labels
+[101 386 385 346 343]
+Predicted Label : tusker
+ImageNet ID : n01871265
+Value Prob : 0.743571
+Predicted Label : 101
+Ground Label :101
+Found matching labels
+[272 276 280 274 278]
+Predicted Label : coyote
+ImageNet ID : n02114855
+Value Prob : 0.877065
+Predicted Label : 272
+Ground Label :272
+Found matching labels
+[191 165 244 234 163]
+Predicted Label : Airedale
+ImageNet ID : n02096051
+Value Prob : 0.223181
+Predicted Label : 191
+Ground Label :213
+[748 857 765 588 520]
+Predicted Label : purse
+ImageNet ID : n04026417
+Value Prob : 0.175721
+Predicted Label : 748
+Ground Label :516
+[421 733 602 652 843]
+Predicted Label : bannister
+ImageNet ID : n02788148
+Value Prob : 0.122978
+Predicted Label : 421
+Ground Label :981
+[977 978 112 976 445]
+Predicted Label : sandbar
+ImageNet ID : n09421951
+Value Prob : 0.492271
+Predicted Label : 977
+Ground Label :975
+[705 829 547 565 888]
+Predicted Label : passenger_car
+ImageNet ID : n03895866
+Value Prob : 0.8391
+Predicted Label : 705
+Ground Label :705
+Found matching labels
+[ 70  78  79 815  73]
+Predicted Label : harvestman
+ImageNet ID : n01770081
+Value Prob : 0.994153
+Predicted Label : 70
+Ground Label :70
+Found matching labels
+[107   5 112   6 110]
+Predicted Label : jellyfish
+ImageNet ID : n01910747
+Value Prob : 0.97641
+Predicted Label : 107
+Ground Label :107
+Found matching labels
+[166 167 238 240 162]
+Predicted Label : Walker_hound
+ImageNet ID : n02089867
+Value Prob : 0.432783
+Predicted Label : 166
+Ground Label :167
+[478 519 553 492 526]
+Predicted Label : carton
+ImageNet ID : n02971356
+Value Prob : 0.928871
+Predicted Label : 478
+Ground Label :478
+Found matching labels
+[ 29   1  38  26 329]
+Predicted Label : axolotl
+ImageNet ID : n01632777
+Value Prob : 0.999999
+Predicted Label : 29
+Ground Label :29
+Found matching labels
+[280 298 335 278 277]
+Predicted Label : grey_fox
+ImageNet ID : n02120505
+Value Prob : 0.691889
+Predicted Label : 280
+Ground Label :343
+[771 507 664 550 707]
+Predicted Label : safe
+ImageNet ID : n04125021
+Value Prob : 0.99994
+Predicted Label : 771
+Ground Label :771
+Found matching labels
+[448 708 538 519 599]
+Predicted Label : birdhouse
+ImageNet ID : n02843684
+Value Prob : 0.73004
+Predicted Label : 448
+Ground Label :858
+[115 110 390 397 396]
+Predicted Label : sea_slug
+ImageNet ID : n01950731
+Value Prob : 0.85534
+Predicted Label : 115
+Ground Label :115
+Found matching labels
+[383 384 374 299 368]
+Predicted Label : Madagascar_cat
+ImageNet ID : n02497673
+Value Prob : 0.828304
+Predicted Label : 383
+Ground Label :383
+Found matching labels
+[937 938 973 991 108]
+Predicted Label : broccoli
+ImageNet ID : n07714990
+Value Prob : 0.976961
+Predicted Label : 937
+Ground Label :937
+Found matching labels
+[49 65 68 54 67]
+Predicted Label : African_crocodile
+ImageNet ID : n01697457
+Value Prob : 0.241681
+Predicted Label : 49
+Ground Label :65
+[230 232 231 229 256]
+Predicted Label : Shetland_sheepdog
+ImageNet ID : n02105855
+Value Prob : 0.449052
+Predicted Label : 230
+Ground Label :230
+Found matching labels
+[583 634 561 856 799]
+Predicted Label : guillotine
+ImageNet ID : n03467068
+Value Prob : 1.0
+Predicted Label : 583
+Ground Label :583
+Found matching labels
+[846 423 619 505 528]
+Predicted Label : table_lamp
+ImageNet ID : n04380533
+Value Prob : 0.567544
+Predicted Label : 846
+Ground Label :725
+[483 698 663 437 497]
+Predicted Label : castle
+ImageNet ID : n02980441
+Value Prob : 0.995024
+Predicted Label : 483
+Ground Label :483
+Found matching labels
+[227 236 158 237 173]
+Predicted Label : kelpie
+ImageNet ID : n02105412
+Value Prob : 0.961187
+Predicted Label : 227
+Ground Label :227
+Found matching labels
+[168 159 211 167 173]
+Predicted Label : redbone
+ImageNet ID : n02090379
+Value Prob : 0.735401
+Predicted Label : 168
+Ground Label :159
+[763 597 764 413 777]
+Predicted Label : revolver
+ImageNet ID : n04086273
+Value Prob : 0.997967
+Predicted Label : 763
+Ground Label :763
+Found matching labels
+[825 649 458 835 840]
+Predicted Label : stone_wall
+ImageNet ID : n04326547
+Value Prob : 0.968669
+Predicted Label : 825
+Ground Label :825
+Found matching labels
+[595 958 856 866 425]
+Predicted Label : harvester
+ImageNet ID : n03496892
+Value Prob : 0.977564
+Predicted Label : 595
+Ground Label :595
+Found matching labels
+[16 86 82 85 21]
+Predicted Label : bulbul
+ImageNet ID : n01560419
+Value Prob : 0.790674
+Predicted Label : 16
+Ground Label :16
+Found matching labels
+[498 762 663 698 832]
+Predicted Label : cinema
+ImageNet ID : n03032252
+Value Prob : 0.99028
+Predicted Label : 498
+Ground Label :498
+Found matching labels
+[727 538 668 900 832]
+Predicted Label : planetarium
+ImageNet ID : n03956157
+Value Prob : 0.998492
+Predicted Label : 727
+Ground Label :727
+Found matching labels
+[212 216 218 215 161]
+Predicted Label : English_setter
+ImageNet ID : n02100735
+Value Prob : 0.392593
+Predicted Label : 212
+Ground Label :558
+[398 401 753 766 771]
+Predicted Label : abacus
+ImageNet ID : n02666196
+Value Prob : 0.745924
+Predicted Label : 398
+Ground Label :398
+Found matching labels
+[733 523 638 459 445]
+Predicted Label : pole
+ImageNet ID : n03976657
+Value Prob : 0.56001
+Predicted Label : 733
+Ground Label :638
+[ 21  89  23  22 127]
+Predicted Label : kite
+ImageNet ID : n01608432
+Value Prob : 0.960028
+Predicted Label : 21
+Ground Label :21
+Found matching labels
+[445 716 639 638 843]
+Predicted Label : bikini
+ImageNet ID : n02837789
+Value Prob : 0.468766
+Predicted Label : 445
+Ground Label :638
+[756 427 412 463 876]
+Predicted Label : rain_barrel
+ImageNet ID : n04049303
+Value Prob : 0.973124
+Predicted Label : 756
+Ground Label :756
+Found matching labels
+[457 834 650 818 523]
+Predicted Label : bow_tie
+ImageNet ID : n02883205
+Value Prob : 0.266372
+Predicted Label : 457
+Ground Label :457
+Found matching labels
+[337 336 674 298 335]
+Predicted Label : beaver
+ImageNet ID : n02363005
+Value Prob : 0.367342
+Predicted Label : 337
+Ground Label :674
+[160 256 226 220 221]
+Predicted Label : Afghan_hound
+ImageNet ID : n02088094
+Value Prob : 0.980056
+Predicted Label : 160
+Ground Label :160
+Found matching labels
+[517 600 754 540 755]
+Predicted Label : crane
+ImageNet ID : n03126707
+Value Prob : 0.994645
+Predicted Label : 517
+Ground Label :517
+Found matching labels
+[726 634 666 583 471]
+Predicted Label : plane
+ImageNet ID : n03954731
+Value Prob : 0.95086
+Predicted Label : 726
+Ground Label :726
+Found matching labels
+[436 407 555 864 803]
+Predicted Label : beach_wagon
+ImageNet ID : n02814533
+Value Prob : 0.192223
+Predicted Label : 436
+Ground Label :436
+Found matching labels
+[109 973 955 997   5]
+Predicted Label : brain_coral
+ImageNet ID : n01917289
+Value Prob : 0.999558
+Predicted Label : 109
+Ground Label :109
+Found matching labels
+[247 230 218 169 217]
+Predicted Label : Saint_Bernard
+ImageNet ID : n02109525
+Value Prob : 0.0889317
+Predicted Label : 247
+Ground Label :361
+[565 867 675 569 858]
+Predicted Label : freight_car
+ImageNet ID : n03393912
+Value Prob : 1.0
+Predicted Label : 565
+Ground Label :565
+Found matching labels
+[852 714 767 584 752]
+Predicted Label : tennis_ball
+ImageNet ID : n04409515
+Value Prob : 0.608372
+Predicted Label : 852
+Ground Label :852
+Found matching labels
+[666 659 463 968 809]
+Predicted Label : mortar
+ImageNet ID : n03786901
+Value Prob : 0.949563
+Predicted Label : 666
+Ground Label :666
+Found matching labels
+[789 532 846 736 765]
+Predicted Label : shoji
+ImageNet ID : n04201297
+Value Prob : 0.187716
+Predicted Label : 789
+Ground Label :789
+Found matching labels
+[951 940 907 955 954]
+Predicted Label : lemon
+ImageNet ID : n07749582
+Value Prob : 0.392884
+Predicted Label : 951
+Ground Label :720
+[424 860 415 509 762]
+Predicted Label : barbershop
+ImageNet ID : n02791270
+Value Prob : 0.366728
+Predicted Label : 424
+Ground Label :424
+Found matching labels
+[158 151 237 265 266]
+Predicted Label : toy_terrier
+ImageNet ID : n02087046
+Value Prob : 0.42357
+Predicted Label : 158
+Ground Label :158
+Found matching labels
+[757 654 660 675 407]
+Predicted Label : recreational_vehicle
+ImageNet ID : n04065272
+Value Prob : 0.989726
+Predicted Label : 757
+Ground Label :757
+Found matching labels
+[548 598 851 556 827]
+Predicted Label : entertainment_center
+ImageNet ID : n03290653
+Value Prob : 0.968408
+Predicted Label : 548
+Ground Label :548
+Found matching labels
+[378 381 366 380 382]
+Predicted Label : capuchin
+ImageNet ID : n02492035
+Value Prob : 0.11991
+Predicted Label : 378
+Ground Label :369
+[23 21 93  8 80]
+Predicted Label : vulture
+ImageNet ID : n01616318
+Value Prob : 0.998993
+Predicted Label : 23
+Ground Label :23
+Found matching labels
+[163 611 700 243 161]
+Predicted Label : bloodhound
+ImageNet ID : n02088466
+Value Prob : 0.250088
+Predicted Label : 163
+Ground Label :163
+Found matching labels
+[959 923 809 828 566]
+Predicted Label : carbonara
+ImageNet ID : n07831146
+Value Prob : 0.997923
+Predicted Label : 959
+Ground Label :959
+Found matching labels
+[149   3   2   4 150]
+Predicted Label : dugong
+ImageNet ID : n02074367
+Value Prob : 0.864712
+Predicted Label : 149
+Ground Label :149
+Found matching labels
+[597 696 911 492 474]
+Predicted Label : holster
+ImageNet ID : n03527444
+Value Prob : 0.0918821
+Predicted Label : 597
+Ground Label :777
+[407 654 656 627 830]
+Predicted Label : ambulance
+ImageNet ID : n02701002
+Value Prob : 0.331015
+Predicted Label : 407
+Ground Label :627
+[934 852 700 999 434]
+Predicted Label : hotdog
+ImageNet ID : n07697537
+Value Prob : 0.161907
+Predicted Label : 934
+Ground Label :415
+[129 134 130 132 128]
+Predicted Label : spoonbill
+ImageNet ID : n02006656
+Value Prob : 0.992229
+Predicted Label : 129
+Ground Label :129
+Found matching labels
+[352 353 351 343 291]
+Predicted Label : impala
+ImageNet ID : n02422699
+Value Prob : 0.920745
+Predicted Label : 352
+Ground Label :352
+Found matching labels
+[993 991 996   8 947]
+Predicted Label : gyromitra
+ImageNet ID : n13037406
+Value Prob : 0.985473
+Predicted Label : 993
+Ground Label :993
+Found matching labels
+[467 788 415 509 582]
+Predicted Label : butcher_shop
+ImageNet ID : n02927161
+Value Prob : 0.357614
+Predicted Label : 467
+Ground Label :788
+[334 335 298 102  82]
+Predicted Label : porcupine
+ImageNet ID : n02346627
+Value Prob : 0.384892
+Predicted Label : 334
+Ground Label :334
+Found matching labels
+[977 978 976 975  34]
+Predicted Label : sandbar
+ImageNet ID : n09421951
+Value Prob : 0.917725
+Predicted Label : 977
+Ground Label :977
+Found matching labels
+[257 222 258 229 228]
+Predicted Label : Great_Pyrenees
+ImageNet ID : n02111500
+Value Prob : 0.68442
+Predicted Label : 257
+Ground Label :257
+Found matching labels
+[332 283 153 154 204]
+Predicted Label : Angora
+ImageNet ID : n02328150
+Value Prob : 0.820328
+Predicted Label : 332
+Ground Label :332
+Found matching labels
+[250 248 249 174 537]
+Predicted Label : Siberian_husky
+ImageNet ID : n02110185
+Value Prob : 0.555303
+Predicted Label : 250
+Ground Label :248
+[259 154 261 260 152]
+Predicted Label : Pomeranian
+ImageNet ID : n02112018
+Value Prob : 0.640637
+Predicted Label : 259
+Ground Label :259
+Found matching labels
+[276 294 293 275 272]
+Predicted Label : hyena
+ImageNet ID : n02117135
+Value Prob : 0.998708
+Predicted Label : 276
+Ground Label :276
+Found matching labels
+[243 180 179 242 245]
+Predicted Label : bull_mastiff
+ImageNet ID : n02108422
+Value Prob : 0.582414
+Predicted Label : 243
+Ground Label :180
+[159 246 168 163 211]
+Predicted Label : Rhodesian_ridgeback
+ImageNet ID : n02087394
+Value Prob : 0.839482
+Predicted Label : 159
+Ground Label :159
+Found matching labels
+[390 392 973 397  65]
+Predicted Label : eel
+ImageNet ID : n02526121
+Value Prob : 0.947135
+Predicted Label : 390
+Ground Label :390
+Found matching labels
+[590 782 487 754 485]
+Predicted Label : hand-held_computer
+ImageNet ID : n03485407
+Value Prob : 0.783327
+Predicted Label : 590
+Ground Label :590
+Found matching labels
+[103 391  58 344  50]
+Predicted Label : platypus
+ImageNet ID : n01873310
+Value Prob : 0.297533
+Predicted Label : 103
+Ground Label :103
+Found matching labels
+[646 858 506 958 698]
+Predicted Label : maze
+ImageNet ID : n03733281
+Value Prob : 0.999962
+Predicted Label : 646
+Ground Label :646
+Found matching labels
+[967 809 968 969 504]
+Predicted Label : espresso
+ImageNet ID : n07920052
+Value Prob : 0.381713
+Predicted Label : 967
+Ground Label :809
+[586 847 609 864 408]
+Predicted Label : half_track
+ImageNet ID : n03478589
+Value Prob : 0.939676
+Predicted Label : 586
+Ground Label :586
+Found matching labels
+[526 620 681 617 624]
+Predicted Label : desk
+ImageNet ID : n03179701
+Value Prob : 0.172053
+Predicted Label : 526
+Ground Label :620
+[331 330 335 104 332]
+Predicted Label : hare
+ImageNet ID : n02326432
+Value Prob : 0.744279
+Predicted Label : 331
+Ground Label :330
+[55 64 46 59 60]
+Predicted Label : green_snake
+ImageNet ID : n01729977
+Value Prob : 0.504854
+Predicted Label : 55
+Ground Label :55
+Found matching labels
+[824 697 614 578 470]
+Predicted Label : stole
+ImageNet ID : n04325704
+Value Prob : 0.14514
+Predicted Label : 824
+Ground Label :906
+[221 233 267 206 197]
+Predicted Label : Irish_water_spaniel
+ImageNet ID : n02102973
+Value Prob : 0.390373
+Predicted Label : 221
+Ground Label :183
+[844 528 804 761 771]
+Predicted Label : switch
+ImageNet ID : n04372370
+Value Prob : 0.999861
+Predicted Label : 844
+Ground Label :844
+Found matching labels
+[619 892 846 679 772]
+Predicted Label : lampshade
+ImageNet ID : n03637318
+Value Prob : 0.268744
+Predicted Label : 619
+Ground Label :528
+[21 91 23 22 94]
+Predicted Label : kite
+ImageNet ID : n01608432
+Value Prob : 0.870716
+Predicted Label : 21
+Ground Label :23
+[118 119 121 120 125]
+Predicted Label : Dungeness_crab
+ImageNet ID : n01978287
+Value Prob : 0.616485
+Predicted Label : 118
+Ground Label :118
+Found matching labels
+[324 325 326 322 318]
+Predicted Label : cabbage_butterfly
+ImageNet ID : n02280649
+Value Prob : 0.976464
+Predicted Label : 324
+Ground Label :324
+Found matching labels
+[ 46  40  31 937  32]
+Predicted Label : green_lizard
+ImageNet ID : n01693334
+Value Prob : 0.370813
+Predicted Label : 46
+Ground Label :937
+[366 379 367 373 371]
+Predicted Label : gorilla
+ImageNet ID : n02480855
+Value Prob : 0.957434
+Predicted Label : 366
+Ground Label :366
+Found matching labels
+[504 441 440 470 968]
+Predicted Label : coffee_mug
+ImageNet ID : n03063599
+Value Prob : 0.900002
+Predicted Label : 504
+Ground Label :504
+Found matching labels
+[256 233 226 197 205]
+Predicted Label : Newfoundland
+ImageNet ID : n02111277
+Value Prob : 0.723812
+Predicted Label : 256
+Ground Label :256
+Found matching labels
+[716 912 425 437 449]
+Predicted Label : picket_fence
+ImageNet ID : n03930313
+Value Prob : 0.28954
+Predicted Label : 716
+Ground Label :718
+[935 961 928 927 659]
+Predicted Label : mashed_potato
+ImageNet ID : n07711569
+Value Prob : 0.588378
+Predicted Label : 935
+Ground Label :935
+Found matching labels
+[655 522 774 775 491]
+Predicted Label : miniskirt
+ImageNet ID : n03770439
+Value Prob : 0.319142
+Predicted Label : 655
+Ground Label :608
+[476 865 509 800 843]
+Predicted Label : carousel
+ImageNet ID : n02966193
+Value Prob : 0.999976
+Predicted Label : 476
+Ground Label :476
+Found matching labels
+[969 967 441 968 504]
+Predicted Label : eggnog
+ImageNet ID : n07932039
+Value Prob : 0.846635
+Predicted Label : 969
+Ground Label :969
+Found matching labels
+[212 177 170 210 164]
+Predicted Label : English_setter
+ImageNet ID : n02100735
+Value Prob : 0.931901
+Predicted Label : 212
+Ground Label :212
+Found matching labels
+[147  34  33 344 149]
+Predicted Label : grey_whale
+ImageNet ID : n02066245
+Value Prob : 0.991015
+Predicted Label : 147
+Ground Label :147
+Found matching labels
+[270 269 273 296 222]
+Predicted Label : white_wolf
+ImageNet ID : n02114548
+Value Prob : 0.957216
+Predicted Label : 270
+Ground Label :270
+Found matching labels
+[771 778 478 844 664]
+Predicted Label : safe
+ImageNet ID : n04125021
+Value Prob : 0.999926
+Predicted Label : 771
+Ground Label :771
+Found matching labels
+[486 889 546 402 611]
+Predicted Label : cello
+ImageNet ID : n02992211
+Value Prob : 0.57032
+Predicted Label : 486
+Ground Label :486
+Found matching labels
+[511 817 436 751 479]
+Predicted Label : convertible
+ImageNet ID : n03100240
+Value Prob : 0.443507
+Predicted Label : 511
+Ground Label :479
+[949 956 989 957 990]
+Predicted Label : strawberry
+ImageNet ID : n07745940
+Value Prob : 0.999898
+Predicted Label : 949
+Ground Label :949
+Found matching labels
+[447 535 758 740 691]
+Predicted Label : binoculars
+ImageNet ID : n02841315
+Value Prob : 0.199123
+Predicted Label : 447
+Ground Label :686
+[841 474 824 903 735]
+Predicted Label : sweatshirt
+ImageNet ID : n04370456
+Value Prob : 0.238924
+Predicted Label : 841
+Ground Label :841
+Found matching labels
+[431 529 516 520 443]
+Predicted Label : bassinet
+ImageNet ID : n02804414
+Value Prob : 0.671347
+Predicted Label : 431
+Ground Label :516
+[989 311 318 308 321]
+Predicted Label : hip
+ImageNet ID : n12620546
+Value Prob : 0.846769
+Predicted Label : 989
+Ground Label :311
+[867 565 569 864 705]
+Predicted Label : trailer_truck
+ImageNet ID : n04467665
+Value Prob : 0.932339
+Predicted Label : 867
+Ground Label :867
+Found matching labels
+[887 591 532 884 868]
+Predicted Label : vestment
+ImageNet ID : n04532106
+Value Prob : 0.960852
+Predicted Label : 887
+Ground Label :887
+Found matching labels
+[948 945 582 952 954]
+Predicted Label : Granny_Smith
+ImageNet ID : n07742313
+Value Prob : 0.799016
+Predicted Label : 948
+Ground Label :948
+Found matching labels
+[221 267 266 265 183]
+Predicted Label : Irish_water_spaniel
+ImageNet ID : n02102973
+Value Prob : 0.667487
+Predicted Label : 221
+Ground Label :265
+[970 979 672 975 972]
+Predicted Label : alp
+ImageNet ID : n09193705
+Value Prob : 0.864418
+Predicted Label : 970
+Ground Label :970
+Found matching labels
+[199 192 193 196 252]
+Predicted Label : Scotch_terrier
+ImageNet ID : n02097298
+Value Prob : 0.554837
+Predicted Label : 199
+Ground Label :196
+[286 287 104 290 291]
+Predicted Label : cougar
+ImageNet ID : n02125311
+Value Prob : 0.997672
+Predicted Label : 286
+Ground Label :286
+Found matching labels
+[840 576 462 523 884]
+Predicted Label : swab
+ImageNet ID : n04367480
+Value Prob : 0.592901
+Predicted Label : 840
+Ground Label :872
+[975 536 449 978 460]
+Predicted Label : lakeside
+ImageNet ID : n09332890
+Value Prob : 0.30499
+Predicted Label : 975
+Ground Label :449
+[333 359 356 358 106]
+Predicted Label : hamster
+ImageNet ID : n02342885
+Value Prob : 0.873949
+Predicted Label : 333
+Ground Label :358
+[802 803 537 672 795]
+Predicted Label : snowmobile
+ImageNet ID : n04252077
+Value Prob : 0.964699
+Predicted Label : 802
+Ground Label :802
+Found matching labels
+[349 348 350 342 336]
+Predicted Label : bighorn
+ImageNet ID : n02415577
+Value Prob : 0.878919
+Predicted Label : 349
+Ground Label :349
+Found matching labels
+[46 40 26 38 27]
+Predicted Label : green_lizard
+ImageNet ID : n01693334
+Value Prob : 0.512238
+Predicted Label : 46
+Ground Label :46
+Found matching labels
+[894 799 648 789 896]
+Predicted Label : wardrobe
+ImageNet ID : n04550184
+Value Prob : 0.547714
+Predicted Label : 894
+Ground Label :493
+[58 67 65 60 52]
+Predicted Label : water_snake
+ImageNet ID : n01737021
+Value Prob : 0.322195
+Predicted Label : 58
+Ground Label :57
+[934 924 965 933 923]
+Predicted Label : hotdog
+ImageNet ID : n07697537
+Value Prob : 0.744981
+Predicted Label : 934
+Ground Label :934
+Found matching labels
+[373 376 371 374 380]
+Predicted Label : macaque
+ImageNet ID : n02487347
+Value Prob : 0.706036
+Predicted Label : 373
+Ground Label :373
+Found matching labels
+[506 545 798 646 577]
+Predicted Label : coil
+ImageNet ID : n03065424
+Value Prob : 0.237907
+Predicted Label : 506
+Ground Label :646
+[ 26  29 307  27 312]
+Predicted Label : common_newt
+ImageNet ID : n01630670
+Value Prob : 0.767694
+Predicted Label : 26
+Ground Label :32
+[39 46 41 42 43]
+Predicted Label : common_iguana
+ImageNet ID : n01677366
+Value Prob : 0.998911
+Predicted Label : 39
+Ground Label :39
+Found matching labels
+[878 810 916 401 921]
+Predicted Label : typewriter_keyboard
+ImageNet ID : n04505470
+Value Prob : 0.710289
+Predicted Label : 878
+Ground Label :878
+Found matching labels
+[588 626 711 844 629]
+Predicted Label : hamper
+ImageNet ID : n03482405
+Value Prob : 0.418844
+Predicted Label : 588
+Ground Label :588
+Found matching labels
+[487 761 754 673 662]
+Predicted Label : cellular_telephone
+ImageNet ID : n02992529
+Value Prob : 0.866995
+Predicted Label : 487
+Ground Label :487
+Found matching labels
+[922 923 966 925 924]
+Predicted Label : menu
+ImageNet ID : n07565083
+Value Prob : 0.67799
+Predicted Label : 922
+Ground Label :934
+[ 92 319  94  91 141]
+Predicted Label : bee_eater
+ImageNet ID : n01828970
+Value Prob : 0.33835
+Predicted Label : 92
+Ground Label :92
+Found matching labels
+[751 407 864 468 871]
+Predicted Label : racer
+ImageNet ID : n04037443
+Value Prob : 0.881704
+Predicted Label : 751
+Ground Label :751
+Found matching labels
+[222 355 270 354 568]
+Predicted Label : kuvasz
+ImageNet ID : n02104029
+Value Prob : 0.435144
+Predicted Label : 222
+Ground Label :270
+[360 150 356 336  36]
+Predicted Label : otter
+ImageNet ID : n02444819
+Value Prob : 0.890802
+Predicted Label : 360
+Ground Label :150
+[277 278 280 274 272]
+Predicted Label : red_fox
+ImageNet ID : n02119022
+Value Prob : 0.844806
+Predicted Label : 277
+Ground Label :277
+Found matching labels
+[275 246 172 274 276]
+Predicted Label : African_hunting_dog
+ImageNet ID : n02116738
+Value Prob : 0.717082
+Predicted Label : 275
+Ground Label :275
+Found matching labels
+[664 851 468 916 782]
+Predicted Label : monitor
+ImageNet ID : n03782006
+Value Prob : 0.506522
+Predicted Label : 664
+Ground Label :717
+[687 497 421 884 905]
+Predicted Label : organ
+ImageNet ID : n03854065
+Value Prob : 0.999991
+Predicted Label : 687
+Ground Label :687
+Found matching labels
+[795 970 913 792 672]
+Predicted Label : ski
+ImageNet ID : n04228054
+Value Prob : 0.72016
+Predicted Label : 795
+Ground Label :970
+[448 596 703 677 114]
+Predicted Label : birdhouse
+ImageNet ID : n02843684
+Value Prob : 0.699465
+Predicted Label : 448
+Ground Label :703
+[591 496 721 868 411]
+Predicted Label : handkerchief
+ImageNet ID : n03485794
+Value Prob : 0.994919
+Predicted Label : 591
+Ground Label :591
+Found matching labels
+[283 281 282 260 287]
+Predicted Label : Persian_cat
+ImageNet ID : n02123394
+Value Prob : 0.993574
+Predicted Label : 283
+Ground Label :283
+Found matching labels
+[473 861 700 589 999]
+Predicted Label : can_opener
+ImageNet ID : n02951585
+Value Prob : 0.379509
+Predicted Label : 473
+Ground Label :473
+Found matching labels
+[981 752 781 842 805]
+Predicted Label : ballplayer
+ImageNet ID : n09835506
+Value Prob : 0.47654
+Predicted Label : 981
+Ground Label :842
+[21 23 24 22 82]
+Predicted Label : kite
+ImageNet ID : n01608432
+Value Prob : 0.658784
+Predicted Label : 21
+Ground Label :22
+[647 438 441 899 828]
+Predicted Label : measuring_cup
+ImageNet ID : n03733805
+Value Prob : 0.587616
+Predicted Label : 647
+Ground Label :647
+Found matching labels
+[334 102  48 362 298]
+Predicted Label : porcupine
+ImageNet ID : n02346627
+Value Prob : 0.92794
+Predicted Label : 334
+Ground Label :334
+Found matching labels
+[484 780 724 914 871]
+Predicted Label : catamaran
+ImageNet ID : n02981792
+Value Prob : 0.516216
+Predicted Label : 484
+Ground Label :780
+[887 406 857 501 689]
+Predicted Label : vestment
+ImageNet ID : n04532106
+Value Prob : 0.999925
+Predicted Label : 887
+Ground Label :887
+Found matching labels
+[637 844 412 710 695]
+Predicted Label : mailbox
+ImageNet ID : n03710193
+Value Prob : 0.743281
+Predicted Label : 637
+Ground Label :637
+Found matching labels
+[480 571 886 799 743]
+Predicted Label : cash_machine
+ImageNet ID : n02977058
+Value Prob : 0.744887
+Predicted Label : 480
+Ground Label :664
+[202 201 191 184 187]
+Predicted Label : soft-coated_wheaten_terrier
+ImageNet ID : n02098105
+Value Prob : 0.405081
+Predicted Label : 202
+Ground Label :201
+[735 474 911 824 841]
+Predicted Label : poncho
+ImageNet ID : n03980874
+Value Prob : 0.543117
+Predicted Label : 735
+Ground Label :474
+[77 32 26 28 58]
+Predicted Label : wolf_spider
+ImageNet ID : n01775062
+Value Prob : 0.268597
+Predicted Label : 77
+Ground Label :28
+[396 115 973 108 328]
+Predicted Label : lionfish
+ImageNet ID : n02643566
+Value Prob : 0.999922
+Predicted Label : 396
+Ground Label :396
+Found matching labels
+[389 467 568 824 391]
+Predicted Label : barracouta
+ImageNet ID : n02514041
+Value Prob : 0.341777
+Predicted Label : 389
+Ground Label :394
+[236 165 234 237 238]
+Predicted Label : Doberman
+ImageNet ID : n02107142
+Value Prob : 0.419617
+Predicted Label : 236
+Ground Label :236
+Found matching labels
+[50 44 49 41 46]
+Predicted Label : American_alligator
+ImageNet ID : n01698640
+Value Prob : 0.786358
+Predicted Label : 50
+Ground Label :50
+Found matching labels
+[184 175 170 207 185]
+Predicted Label : Irish_terrier
+ImageNet ID : n02093991
+Value Prob : 0.657602
+Predicted Label : 184
+Ground Label :175
+[573 408 561 575 751]
+Predicted Label : go-kart
+ImageNet ID : n03444034
+Value Prob : 0.67556
+Predicted Label : 573
+Ground Label :573
+Found matching labels
+[274 273 272 277 271]
+Predicted Label : dhole
+ImageNet ID : n02115913
+Value Prob : 0.996379
+Predicted Label : 274
+Ground Label :272
+[781 498 398 800 401]
+Predicted Label : scoreboard
+ImageNet ID : n04149813
+Value Prob : 0.880268
+Predicted Label : 781
+Ground Label :781
+Found matching labels
+[231 230 169 160 157]
+Predicted Label : collie
+ImageNet ID : n02106030
+Value Prob : 0.552076
+Predicted Label : 231
+Ground Label :230
+[166 167 162 161 247]
+Predicted Label : Walker_hound
+ImageNet ID : n02089867
+Value Prob : 0.654045
+Predicted Label : 166
+Ground Label :167
+[198 196 202 190 212]
+Predicted Label : standard_schnauzer
+ImageNet ID : n02097209
+Value Prob : 0.449342
+Predicted Label : 198
+Ground Label :198
+Found matching labels
+[645 832 417 701 971]
+Predicted Label : maypole
+ImageNet ID : n03733131
+Value Prob : 0.999976
+Predicted Label : 645
+Ground Label :645
+Found matching labels
+[567 909 544 926 910]
+Predicted Label : frying_pan
+ImageNet ID : n03400231
+Value Prob : 0.322572
+Predicted Label : 567
+Ground Label :544
+[122 929 124 934 121]
+Predicted Label : American_lobster
+ImageNet ID : n01983481
+Value Prob : 0.643279
+Predicted Label : 122
+Ground Label :122
+Found matching labels
+[80 83 86 81 82]
+Predicted Label : black_grouse
+ImageNet ID : n01795545
+Value Prob : 0.984784
+Predicted Label : 80
+Ground Label :80
+Found matching labels
+[659 809 968 666 618]
+Predicted Label : mixing_bowl
+ImageNet ID : n03775546
+Value Prob : 0.995447
+Predicted Label : 659
+Ground Label :659
+Found matching labels
+[  1  29 552 862 749]
+Predicted Label : goldfish
+ImageNet ID : n01443537
+Value Prob : 0.488998
+Predicted Label : 1
+Ground Label :108
+[328 108 973 115 116]
+Predicted Label : sea_urchin
+ImageNet ID : n02319095
+Value Prob : 0.968512
+Predicted Label : 328
+Ground Label :328
+Found matching labels
+[632 482 848 754 481]
+Predicted Label : loudspeaker
+ImageNet ID : n03691459
+Value Prob : 0.94525
+Predicted Label : 632
+Ground Label :632
+Found matching labels
+[846 526 736 448 492]
+Predicted Label : table_lamp
+ImageNet ID : n04380533
+Value Prob : 0.66187
+Predicted Label : 846
+Ground Label :846
+Found matching labels
+[328 973 396 108 115]
+Predicted Label : sea_urchin
+ImageNet ID : n02319095
+Value Prob : 0.958448
+Predicted Label : 328
+Ground Label :328
+Found matching labels
+[30 58 25 32 35]
+Predicted Label : bullfrog
+ImageNet ID : n01641577
+Value Prob : 0.265299
+Predicted Label : 30
+Ground Label :58
+[142 141 140 307 133]
+Predicted Label : dowitcher
+ImageNet ID : n02033041
+Value Prob : 0.929053
+Predicted Label : 142
+Ground Label :142
+Found matching labels
+[173 162 161 263 253]
+Predicted Label : Ibizan_hound
+ImageNet ID : n02091244
+Value Prob : 0.237958
+Predicted Label : 173
+Ground Label :173
+Found matching labels
+[ 88 803 693 412 840]
+Predicted Label : macaw
+ImageNet ID : n01818515
+Value Prob : 0.425597
+Predicted Label : 88
+Ground Label :467
+[ 78  74  73 307  77]
+Predicted Label : tick
+ImageNet ID : n01776313
+Value Prob : 0.478528
+Predicted Label : 78
+Ground Label :74
+[397 115 390 973 392]
+Predicted Label : puffer
+ImageNet ID : n02655020
+Value Prob : 0.974371
+Predicted Label : 397
+Ground Label :392
+[289 285 290 288 287]
+Predicted Label : snow_leopard
+ImageNet ID : n02128757
+Value Prob : 0.675497
+Predicted Label : 289
+Ground Label :289
+Found matching labels
+[173 215 188 189 209]
+Predicted Label : Ibizan_hound
+ImageNet ID : n02091244
+Value Prob : 0.163653
+Predicted Label : 173
+Ground Label :173
+Found matching labels
+[787 971 875 513 475]
+Predicted Label : shield
+ImageNet ID : n04192698
+Value Prob : 0.250445
+Predicted Label : 787
+Ground Label :875
+[870 697 641 615 843]
+Predicted Label : tricycle
+ImageNet ID : n04482393
+Value Prob : 0.933958
+Predicted Label : 870
+Ground Label :870
+Found matching labels
+[461 524 469 725 666]
+Predicted Label : breastplate
+ImageNet ID : n02895154
+Value Prob : 0.49397
+Predicted Label : 461
+Ground Label :461
+Found matching labels
+[994  27 992 947 997]
+Predicted Label : stinkhorn
+ImageNet ID : n13040303
+Value Prob : 0.987059
+Predicted Label : 994
+Ground Label :994
+Found matching labels
+[140 142  10 139 141]
+Predicted Label : red-backed_sandpiper
+ImageNet ID : n02027492
+Value Prob : 0.983703
+Predicted Label : 140
+Ground Label :140
+Found matching labels
+[370 371 380 373 372]
+Predicted Label : guenon
+ImageNet ID : n02484975
+Value Prob : 0.996924
+Predicted Label : 370
+Ground Label :370
+Found matching labels
+Top 1 Accuracy is : 0.635
+Top 5 Accuracy is : 0.855

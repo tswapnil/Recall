@@ -1,0 +1,23 @@
+#!/bin/bash
+#SBATCH --job-name="cp2k"
+#SBATCH --output="compute.%j.%N.out"
+#SBATCH --partition=compute
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=24
+#SBATCH --export=ALL
+#SBATCH -t 01:30:00
+
+#This job runs with 16 nodes, 24 cores per node for a total of 384 cores.
+
+#Load the CP2K module and find the executable
+#module load cp2k
+
+#Use ibrun to run the MPI job. It will detect the MPI, generate the hostfile
+# and doing the right binding. With no options ibrun will use all cores.
+#python /home/tswapnil/291G/readStats.py
+
+source activate tensorflowEnv
+python /home/tswapnil/Recall/RecallCNN-master/newCode.py
+
+#export MV2_USE_OLD_BCAST=0
+#ibrun cp2k.popt -i H2O-64.inp 

@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH --job-name="TensorFlow"
+#SBATCH --output="TensorFlow.%j.%N.out"
+#SBATCH --partition=gpu-shared
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=6
+#SBATCH --gres=gpu:1
+#SBATCH -t 01:00:00
+
+#Run the job
+#
+source activate tensorflowEnv
+python /home/tswapnil/Recall/RecallCNN-master/test_imagenet.py --image Query/ILSVRC2012_val_00000201.JPEG
