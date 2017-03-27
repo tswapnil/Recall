@@ -1,5 +1,5 @@
 import keras
-from kers.preprocessing.image import ImageDataGenerator
+from keras.preprocessing.image import ImageDataGenerator
 from keras.preprocessing.image import ImageDataGenerator, array_to_img, img_to_array, load_img
 from keras.applications import VGG16
 from keras.models import Model
@@ -40,6 +40,8 @@ def getModel(index):
 TopModel = VGG16( weights='imagenet', include_top=True )
 
 target = open('Predictions'  + '.txt', 'w')
+
+target2 = open('Top5Preds.txt','w')
 
 v_data_dir = "C:\\study\\Second Quarter\\Recall\\newData\\"
 
@@ -82,10 +84,10 @@ for root, d, files in os.walk(v_data_dir):
         print("ImageNet ID : " + str(imagenetID))
         print("Value Prob : "+ str(prob))
         print("Predicted Label : "+ str(index))
-        if index in predMat :
-            predMat[index] +=1
-        else :
-            predMat[index] = 1
+        #if index in predMat :
+        #    predMat[index] +=1
+        #else :
+        #    predMat[index] = 1
         #print(preds)
         fName = str(name)
         labelIndexArr[i] = int(fName[17:-5])
@@ -103,13 +105,15 @@ for root, d, files in os.walk(v_data_dir):
             accuracy = accuracy + 1
         for y in range(0,par):
             (a,b,c,d) = P[0][y]
+            target2.write(str(d)+',')
             #print("Value of d is : "+ str(d));
-            if str(d)==str(truthLabelVal) :
-                bool = 1
-        if bool == 1:
-            accuracy5 = accuracy5+1 
+            #if str(d)==str(truthLabelVal) :
+            #    bool = 1
+        #if bool == 1:
+        #    accuracy5 = accuracy5+1 
         #target.write(str(imagenetID) + ", " + str(prob) + " , "+ str(label)+ " , " + str(truthLabelVal) +"\n")
         target.write(str(index)+'\n')
+        target2.write('\n')
         i = i+1
 
 

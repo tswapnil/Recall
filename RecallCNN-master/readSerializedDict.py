@@ -32,6 +32,7 @@ for line in predictionFile :
     
     i = i + 1
 
+print(matByIndex);
 
 #Read Truth Data
 truthFile = open('C:\\study\\Second Quarter\\Recall\\newData\\labels.txt', 'r')
@@ -60,6 +61,11 @@ for line in queryTruthFile :
 
 fileIndex = 10001
 iterIndex = 0
+avg_rec = 0;
+avg_prec = 0;
+target = open('recallPred.txt','w')
+target2 = open('precPred.txt','w')
+
 for iterIndex in range(200):
     
     queryLabelFile = open("C:\\study\\Second Quarter\\Recall\\RecallCNN-master\\Query\\CNNlabel_0"+str(fileIndex)+".txt",'r')
@@ -101,11 +107,18 @@ for iterIndex in range(200):
             prIR = prIR + 1
 
     print ("Precision is " + str(prIR / len(irIndex)))
-
+    
     print(iterIndex)
     if queryTruthByIndex[iterIndex] in matTruthByLabel:
         temp = matTruthByLabel[str(queryTruthByIndex[iterIndex])]
         
     print ("Recall is " + str(prIR/temp ))
+    target.write(str(prIR/temp ) + '\n')
+    target2.write(str(prIR / len(irIndex)) + '\n')
+    avg_rec = avg_rec+prIR/temp
+    avg_prec = avg_prec + prIR / len(irIndex)
     fileIndex = fileIndex+ 1
+
+print('Average Recall is ' + str(avg_rec/200))
+print('Average Precision is ' + str(avg_prec/200))
 

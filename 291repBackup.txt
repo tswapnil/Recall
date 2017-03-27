@@ -1,0 +1,492 @@
+% This is "sig-alternate.tex" V1.9 April 2009
+% This file should be compiled with V2.4 of "sig-alternate.cls" April 2009
+%
+% This example file demonstrates the use of the 'sig-alternate.cls'
+% V2.4 LaTeX2e document class file. It is for those submitting
+% articles to ACM Conference Proceedings WHO DO NOT WISH TO
+% STRICTLY ADHERE TO THE SIGS (PUBS-BOARD-ENDORSED) STYLE.
+% The 'sig-alternate.cls' file will produce a similar-looking,
+% albeit, 'tighter' paper resulting in, invariably, fewer pages.
+%
+% ----------------------------------------------------------------------------------------------------------------
+% This .tex file (and associated .cls V2.4) produces:
+%       1) The Permission Statement
+%       2) The Conference (location) Info information
+%       3) The Copyright Line with ACM data
+%       4) NO page numbers
+%
+% as against the acm_proc_article-sp.cls file which
+% DOES NOT produce 1) thru' 3) above.
+%
+% Using 'sig-alternate.cls' you have control, however, from within
+% the source .tex file, over both the CopyrightYear
+% (defaulted to 200X) and the ACM Copyright Data
+% (defaulted to X-XXXXX-XX-X/XX/XX).
+% e.g.
+% \CopyrightYear{2007} will cause 2007 to appear in the copyright line.
+% \crdata{0-12345-67-8/90/12} will cause 0-12345-67-8/90/12 to appear in the copyright line.
+%
+% ---------------------------------------------------------------------------------------------------------------
+% This .tex source is an example which *does* use
+% the .bib file (from which the .bbl file % is produced).
+% REMEMBER HOWEVER: After having produced the .bbl file,
+% and prior to final submission, you *NEED* to 'insert'
+% your .bbl file into your source .tex file so as to provide
+% ONE 'self-contained' source file.
+%
+% ================= IF YOU HAVE QUESTIONS =======================
+% Questions regarding the SIGS styles, SIGS policies and
+% procedures, Conferences etc. should be sent to
+% Adrienne Griscti (griscti@acm.org)
+%
+% Technical questions _only_ to
+% Gerald Murray (murray@hq.acm.org)
+% ===============================================================
+%
+% For tracking purposes - this is V1.9 - April 2009
+
+\documentclass{sig-alternate}
+  \pdfpagewidth=8.5truein
+  \pdfpageheight=11truein
+\usepackage{etoolbox}
+
+
+\begin{filecontents}{mylocalbib.bib}
+@article{extra1,
+  title={Title},
+  author={A. Uthor},
+  journal={PRL},
+  volume={12},
+  pages={123--124},
+  year={1999},
+}
+\end{filecontents}
+
+
+
+\begin{document}
+
+%\AtEndEnvironment{thebibliography}{
+ 
+%\bibitem{encoder1:iir} A. Torralba and Rob Fergus,Small codes and large image databases for recognition, MIT and NYU 
+%\bibitem{overfeat:cee} Pierre Sermanet, David Eigen ,
+%Xiang Zhang , Michael Mathieu, Rob Fergus and Yann Lecun , Integrated ecognition, Localization and Detection
+%using Convolutional Networks, Feb 2014
+%\bibitem{}
+%}
+
+%
+% --- Author Metadata here ---
+\conferenceinfo{}{}
+\CopyrightYear{2017} % Allows default copyright year (2002) to be over-ridden - IF NEED BE.
+\crdata{978-1-4503-3196-8/15/04}  % Allows default copyright data (X-XXXXX-XX-X/XX/XX) to be over-ridden.
+% --- End of Author Metadata ---
+
+\title{Survey : Improving Recall using CNNs }
+
+%
+% You need the command \numberofauthors to handle the 'placement
+% and alignment' of the authors beneath the title.
+%
+% For aesthetic reasons, we recommend 'three authors at a time'
+% i.e. three 'name/affiliation blocks' be placed beneath the title.
+%
+% NOTE: You are NOT restricted in how many 'rows' of
+% "name/affiliations" may appear. We just ask that you restrict
+% the number of 'columns' to three.
+%
+% Because of the available 'opening page real-estate'
+% we ask you to refrain from putting more than six authors
+% (two rows with three columns) beneath the article title.
+% More than six makes the first-page appear very cluttered indeed.
+%
+% Use the \alignauthor commands to handle the names
+% and affiliations for an 'aesthetic maximum' of six authors.
+% Add names, affiliations, addresses for
+% the seventh etc. author(s) as the argument for the
+% \additionalauthors command.
+% These 'additional authors' will be output/set for you
+% without further effort on your part as the last section in
+% the body of your article BEFORE References or any Appendices.
+
+\numberofauthors{2} %  in this sample file, there are a *total*
+% of EIGHT authors. SIX appear on the 'first-page' (for formatting
+% reasons) and the remaining two appear in the \additionalauthors section.
+%
+\author{
+% You can go ahead and credit any number of authors here,
+% e.g. one 'row of three' or two rows (consisting of one row of three
+% and a second row of one, two or three).
+%
+% The command \alignauthor (no curly braces needed) should
+% precede each author name, affiliation/snail-mail address and
+% e-mail address. Additionally, tag each line of
+% affiliation/address with \affaddr, and tag the
+% e-mail address with \email.
+%
+% 1st. author
+\alignauthor
+Swapnil Taneja\\
+       \affaddr{University Of California, San Diego}\\
+       \affaddr{9450 Gilman Drive, La Jolla}\\
+       \affaddr{San Diego, CA , USA}\\
+       \email{swtaneja@ucsd.edu}
+\alignauthor
+Arun Kumar\\
+       \affaddr{University Of California, San Diego}\\
+       \affaddr{9450 Gilman Drive, La Jolla}\\
+       \affaddr{San Diego, CA , USA}\\
+       \email{arunkk@ucsd.edu}
+}
+
+% There's nothing stopping you putting the seventh, eighth, etc.
+% author on the opening page (as the 'third row') but we ask,
+% for aesthetic reasons that you place these 'additional authors'
+% in the \additional authors block, viz.
+
+% Just remember to make sure that the TOTAL number of authors
+% is the number that will appear on the first page PLUS the
+% number that will appear in the \additionalauthors section.
+
+
+\maketitle
+\begin{abstract}
+This paper provides a survey of a number of research papers and an insight into the approaches that can be made for improving recall in an image similarity search using Convolutional Neural Networks. Various researches are being done to understand the features that are learned during training . Neural Networks learn internal representations in the service of the task. In the previous approaches for image instance retrieval , features were extracted from the images and were used to improve the recall. SIFT \cite{sift:a}, HOG \cite{hog:a} , SURF \cite{surf:a}, Fisher Vectors \cite{fv:a} , to name a few were the features that provided a means to compare images from the dataset with the features of the query image. This paper also surveys briefly the challenges that may come up in addressing this research problem. For example, the internal representations of the hidden units have large number of parameters. Neural Networks since the very beginning have faced this challenge where there is utmost requirement of a Model and Database Management System or Versioning System for addressing this storage problem. Nevertheless, more focus will be on the motivations to gain insights into the distributed features which can be used for improving recall. 
+
+
+\end{abstract}
+
+% A category with the (minimum) three required fields
+\category{H.4}{Convolutional Neural Networks}{Miscellaneous}
+%A category including the fourth, optional field follows...
+\category{D.2.8}{Database Management System}{Recall}[performance measures]
+
+
+
+\section{Introduction}
+In this project, we explored the concepts of Convolutional Neural Networks. CNNs can be involved in numerous tasks . Image Classification , Object Detection , Object Localization, Image Segmentation , Text Categorization, Spectral Graph Theory, Optical Flow etc. In the ILSVRC challenge of 2010 , Alex Krizhevsky proposed ALexNet \cite{alexnet:cnn}. In 2014 \cite{vgg:cnn}, VGG 16, and 19 models were proposed. They achieved remarkable results in Top-1 and Top-5 accuracy . The concept behind this survey is to identify methods that can potentially help to improve recall of images in image instance retrieval . The purpose of identifying the taxonomy is to understand and explore the ways these tasks have been performed using internal representations of these neural networks. The next section considers a few of these tasks and explore the exploitable features. Section 2.1 and , 2.3 present the tasks of the taxonomy. Section 2.2 , 2.4 and 2.5 do a survey of existing researches in this field. 
+
+\section{Image Classification , Localisation and Segmentation}
+Image Classification is essentially identifying a class label for an image from a set of pre-determined classes. In the ImageNet ILSVRC-2010 contest, Alex Krizhevsky et. al \cite{alexnet:cnn} trained a large deep convolutional neural network to classify 1.2 million high resolution images. On the test data they achieved top-1 and top-5 error rates of 37.5 $\%$ and 17 $\%$ respectively. Figure \ref{fig:AlexNet} shows the model and network architecture of AlexNet\cite{alexnet:cnn}.  They used non linear hidden units - RELU units and devised a methodology called Dropout for reducing overfitting . 
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/AlexNet.png}
+\end{center}
+\caption{}
+\label{fig:AlexNet}
+\end{figure}
+
+IN ILSVRC 2014 , Karen Simonyan and Andrew Zisserman \cite{vgg:cnn} proposed 6 configurations . They released the two best performing models - one with 16 layers and other with 19 layers. During training, the input to the ConvNets is a fixed-size 224 × 224 RGB image .The only pre-processing they do is subtracting the mean RGB value, computed on the training set, from each pixel. A stack of convolutional layers (which has a different depth in different architectures) is followed by three Fully-Connected (FC) layers: the first two have 4096 channels each, the third performs 1000-way ILSVRC classification and thus contains 1000 channels (one for each class). The final layer is the soft-max layer. The configuration of the fully connected layers is the same in all networks. Their best single-network performance on the validation set is 24.8 $\%$ / 7.5 $\%$
+top-1/top-5 error . \textbf{Convnet Fusion} : - In another part of the experiments, they combined the outputs of several models by averaging their soft-max class posteriors. This
+improved the performance due to complementarity of the models, and was used in the top ILSVRC submissions in 2012 (Krizhevsky et al., 2012) and 2013 (Zeiler and Fergus, 2013; Sermanet et al.,2014). Figure \ref{fig:ConvFusionVgg} shows the results after performing this fusion . 
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/ConvFusionVGG.png}
+\end{center}
+\caption{}
+\label{fig:ConvFusionVgg}
+\end{figure}
+
+
+Localization \cite{vgg:cnn} can be seen as a special case of object detection, where a single object bounding box should be predicted for each of the top-5 classes, irrespective of the actual number of objects of the class.To perform object localization, Karen Simonyan et. al used a Very Deep Convnet, where the last fully connected layer predicts the bounding box location instead of the class scores. A bounding box is represented by a 4-D vector storing its center coordinates, width, and height. Training of localization ConvNets is similar to that of the classification ConvNets. The main difference is that the logistic regression objective is replaced with a Euclidean loss, which penalizes the deviation of the predicted bounding box parameters from the ground-truth.
+  They had two testing protocols\cite{vgg:cnn}. In one, the bounding box is obtained by applying the network only to the central crop of the image.In the second, fully-fledged, testing procedure is based on the dense application of the localization ConvNet to the whole image, similarly to the classification task . The difference is that instead of the class score map, the output of the last fully-connected layer is a set of bounding box predictions.   
+   
+   To come up with the final prediction, they utilized the greedy merging procedure of Sermanet et al. (2014), which first merges spatially close predictions (by averaging their coordinates), and then rates them based on the class scores, obtained from the classification ConvNet.
+   
+  In another model Overfeat \cite{overfeat:cnn} , Sermanet et. al present an integrated framework for using Convolutional Networks for classification, localization and detection. This integrated framework is the winner of the localization task of the ImageNet Large Scale Visual Recognition Challenge 2013 ( ILSVRC 2013) and obtained very competitive results for the detection and
+classifications tasks.
+
+ Sermanet et. al \cite{overfeat:cnn} cited that the simplest approach of predicting segments (regions and not the bounding boxes) consists of training the ConvNet to classify the central pixel (or voxel for volumetric images) of its viewing window as a boundary between regions or not. But when the regions must be categorized, it is preferable to perform semantic segmentation. The main idea is to train the ConvNet to classify the central pixel of the viewing window with the category of the object it belongs to, using the window as context for the decision. The advantage of this approach is that the bounding contours need not be rectangles, and the regions need not be well-circumscribed objects.
+
+The localization task is similar to classification in that 5 guesses are allowed per image, but in addition, a bounding box for the predicted object must be returned with each guess \cite{overfeat:cnn}.The detection task differs from localization in that there can be any number of objects in each image (including zero), and false positives are penalized by the mean average precision . Feature Extractor model Overfeat specifications can be seen in figure \ref{fig:OverfeatSpecs}.
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/OverfeatSpecs.png}
+\end{center}
+\caption{}
+\label{fig:OverfeatSpecs}
+\end{figure}
+
+  The above mentioned state of the art CNNs have been used for image classification, localization, segmentation and detection . The purpose of introducing them here is to gain insight into or find evidence of usage of the internal representation of features. As the fusion of final layers of the ConvNets improved the performance of this task, we hypothesize that fusion of internal layers can provide better performance in improving precision or recall. The questions to ponder here are - How transferable are the features ? What layers are transferable ? How much of the fusion is useful ? How should the fusion be done ? Does weighted averaging provide better results rather than simply averaging ? Can we merge different layers of different ConvNets ? Can we perform the merge simply or by transforming into different domains ? Should the principal components be merged ? Should we worry about these questions or should we create additional layers in the neural network and let Backpropagation take control ? In other words should we employ neural encoders for performing transformation of internal features ? , etc. A few of these questions are answered to a certain extent in the next sections. In the next few sections, we provide a few research works and give insight into how can they be useful . 
+  
+  
+\subsection{Content-Based Image Retrieval}
+Earlier approaches for content-based image retrieval were based on encoding the images into binary codes. This is equivalent to saying that images were hashed into a binary code so that image similarity measures can be formulated along with dealing in memory constraints. 
+In the paper \cite{encoder1:iir}, Torralba et. al proposed methods to hash the GIST descriptors of images. Perhaps the state-of-the-art method to obtain compact binary descriptors for querying a large database is Locality Sensitive Hashing (LSH), which finds nearest neighbors of points lying in a high dimensional Euclidean space in constant time. LSH does this by computing a hash function
+for a point by rounding a number of random projections of that point into R$^1$.
+
+Given an input image, a GIST descriptor \cite{encoder1:iir} is computed by first convolving the image with 32 Gabor filters at 4 scales, 8 orientations, producing 32 feature maps of the same size of the input image, then by dividing each feature map into 16 regions (by a 4x4 grid), and then average the feature values within each region. Thereafter, the 16 averaged values of all 32 feature maps are concatenated, resulting in a 16x32=512 GIST descriptor. Intuitively, GIST summarizes the gradient information (scales and orientations) for different parts of an image, which provides a rough description (the gist) of the scene \cite{uora:gist}. These descriptors were not practically usage on large datasets due to high dimensionality. The GIST descriptors were converted to a compact binary code using RBMs (Restricted Boltzmann Machines) or Boosting \cite{encoder1:iir}.   
+
+   This algorithm using RBMs is based on the dimensionality reduction framework of Salakhutdinov and Hinton \cite{orig:rbm} , which uses multiple layers of restricted Boltzmann machines (RBMs).An RBM models an ensemble of binary vectors with a network of stochastic binary units arranged in two layers, one visible, one hidden. Units v in the visible layers are connected via a set of symmetric weights W to units h in the hidden layer. The joint configuration of visible and hidden units has an energy . RBMs can be trained using Contrastive Divergence Sampling Scheme \cite{orig:rbm}. 
+   
+Their goal was to identify what was the minimal number of bits that they needed to encode an image so that the nearest neighbor defined using a Hamming distance is also a semantically similar image. 
+
+
+
+Alex Krizhevsky and Georey E. Hinton in their paper \cite{autoencoder:rbm} used very deep autoencoders to map small color images to short binary codes.They called such models DBNs . Deep Belief Networks are multilayer, stochastic generative models that are created by learning a stack of Restricted Boltzmann Machines (RBMs), each of which is trained by using the hidden activities of the previous RBM as its training data. In the first RBM, most of hidden units learned to be high-frequency monotone Gabor like filters that were balanced in the RGB channels and most of the remaining units became lower frequency filters that responded to color edges. Exploiting the model architecture, they were able to generate 28 bit encodings of the images. 
+
+The state of the art SIFT \cite{sift:a}, GIST \cite{uora:gist}, HOG \cite{hog:a}, SURF \cite{surf:a} , etc. provide various mechanisms to tap the convolutional features of CNN. 
+To gain further insight into hidden layer features, hierarchical Cluster Analysis, Principal Component Analysis were proposed by elman in paper \cite{elman:a}. 
+
+Such proposals provide answers to a few questions such as - What are the right transformations of the internal Convolutional features that are not only good for improving precision-recall but are also cost effective in terms of computation and memory ? RBMs and hashing mechanisms can provide a compact binary representation of internal features . For image search, these transformations can provide a cost effective approach. 
+
+\subsection{DeCAF: A Deep Convolutional Activation Feature
+for Generic Visual Recognition}
+In the paper \cite{decaf:a} , Jeff Donahue et. al present an approach of tapping out features at different layers of  a trained model . The activations of each layer l is referred as DECAF$_l$. They present a methodology of using activations at a particular layer to perform tasks such as Object Recognition, Scene Recognition and Domain Adaptation. They also hypothesized that the activations of the neurons in its late hidden layers might serve as very strong features for a variety of object recognition tasks. In doing so, the following questions were essentially answered - Are the features or activations transferable? It turns out, the answer is 'Yes' but with certain condition. The condition is that there should be semantic relationship between the data on which it is trained and the data it is tested on.  
+
+  The deep convolutional model is trained in a fully supervised setting using a state-of-the-art method Krizhevsky et al. (2012). While exploring they additionally address the following questions - Do the features extracted from this model generalize to other datasets ? How do these tapped features perform versus depth ?
+  
+  Figure \ref{fig:Decaf1} shows the visualization from various approaches . Visualizations are done by running the t-SNE algorithm (van der Maaten and Hinton, 2008) \cite{t-SNE:a} to get a 2-dimensional embedding of the high-dimensional feature space, and by plotting them as points colored depending on their semantic category in a particular hierarchy .
+  
+  The figure shows the features extracted on the validation set using the first pooling layer, and the second to last fully connected layer, showing a clear semantic clustering in the latter but not in the former. This is compatible with common deep
+learning knowledge that the first layers learn "low-level"
+features, whereas the latter layers learn semantic or "high-
+level" features. Furthermore, other features such as GIST
+or LLC fail to capture the semantic difference in the image
+(although they show interesting clustering structure).
+ 
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/Decaf1.png}
+\end{center}
+\caption{}
+\label{fig:Decaf1}
+\end{figure}
+
+
+More interestingly, in Figure \ref{fig:Decaf3} we can see the top performing features (DeCAF$_6$) on the SUN-397 dataset. Even
+there, the features show very good clustering of semantic classes (e.g., indoor vs. outdoor). The authors claim that these features cluster several intermediate nodes of WordNet implying that these features are an excellent starting point for generalizing to unseen classes.
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/Decaf3.png}
+\end{center}
+\caption{}
+\label{fig:Decaf3}
+\end{figure}
+
+Additionally , they also give time analysis on different layers. They conclude that the convolution and fully-connected
+layers take most of the time to run, which is understandable
+as they involve large matrix-matrix multiplications . In Figure \ref{fig:Decaf4} they laid out the computation time spent on individual layers with the most time-consuming layers labeled. Also,
+the time distribution over different layer types in figure \ref{fig:Decaf4} reveals an interesting fact: in large networks such as the current ImageNet CNN model, the last few fully-connected layers require the most computation time as they involve large transform matrices. 
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/Decaf4.png}
+\end{center}
+\caption{}
+\label{fig:Decaf4}
+\end{figure}
+
+
+To conclude, earlier convolutional layers are unlikely to contain a richer semantic representation than the later higher level features which form higher-level hypotheses. Convolutional layers transition from the low to mid-level local information in their activations. 
+These features could be fused to generate higher representative features in our main goal.
+
+\subsection{CAS-CNN: A Deep Convolutional Neural Network
+for Image Compression Artifact Suppression}
+Lossy image compression algorithms are used to reduce the size of images transmitted over the web and recorded on data storage media \cite{cas:a}. However, we pay for their high compression rate with visual artifacts degrading the user experience. Deep convolutional neural networks have become a widespread tool to address high-level computer vision tasks very successfully. Recently, they have found their way into the areas of low-level computer vision and image processing to solve regression problems mostly with relatively shallow networks\cite{cas:a}.
+
+In this work \cite{cas:a}, Lukas Cavigelli et al. present 1) the construction of a new deep convolutional neural network architecture to remove compression artifacts in JPEG compressed image data, 2) a strategy to train this deep network, adaptable to other low-level vision tasks, and 3) extensive evaluations on the LIVE1 dataset, highlighting the properties of the network and showing that this is the current state-of-the-art performance ConvNet for compression artifact suppression (CAS).
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/CAS1.png}
+\end{center}
+\caption{}
+\label{fig:cas1}
+\end{figure}
+
+Figure \ref{fig:cas1} shows the model architecture employed for performing compression. The blocks A, . . . ,D each consist of two convolutional layers, increasing the number of channels from 1 to 128 and later to 256, the deeper they are in the network. At the same time the resolution is reduced by down-sampling (DS), which is
+implemented with 2 X 2 pixel average-pooling layers with
+2 X 2 stride. The main path through the ConvNet (marked blue in Figure \ref{fig:cas1}) then proceeds through the full-convolution (also known as up-convolution, deconvolution, backwards convolution, or fractional-strided convolution) layers D, . . . , B (tilde caps) and the normal convolution layer A (cap) . 
+
+During the training of the ConvNets they minimize the MSE criterion, penalizing deviations from the reference image by the squared distance \cite{cas:a}. However, in order to improve the training procedure they include not only the full-resolution output, but also the low-resolution outputs from within the network. The reference for these is computed by down-sampling the input image, averaging across 4, 16 and 64 pixels, respectively. Each of these outputs’ MSE contributes equally to the overall multi-scale (MS) loss function. These give rise to hierarchical skip connections\cite{cas:a}. 
+
+The result of their work is a new state-of-the-art ConvNet achieving a boost of up to 1.79 dB in PSNR over ordinary JPEG and showing an improvement of up to 0.36 dB over the best previous ConvNet result\cite{cas:a}.
+
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/cas2.png}
+\end{center}
+\caption{}
+\label{fig:cas2}
+\end{figure}
+
+ Figure \ref{fig:cas2} shows us the comparison against different approaches for reconstruction quality on the LIVE1 dataset. The structural similarity index (SSIM)\cite{cas:a}is the mean of the product of three terms assessing similarity in luminance, contrast and structure over multiple localized window. The quality of the restored image is compared with the original High quality image .
+ It is clear from the results that that their model outperforms other approaches . 
+ Their work give us an insight that lower level features are transferable to higher layers. By doing they improve on the performance measures and provide a hint that these combined or concatenated features could act as intermediate features for fetching images from the database. 
+ 
+\subsection{CNN Features off-the-shelf: an Astounding Baseline for Recognition}
+In this work \cite{offShelf:a} Ali Sharif Razavian et. al used the publicly available trained CNN called OverFeat \cite{overfeat:cnn} . The structure of this network follows that of Krizhevsky et al \cite{alexnet:cnn}. The convolutional layers each contain 96 to 1024 kernels of size 3X3 to 7X7. Half-wave rectification is used as the nonlinear activation function. Max pooling kernels of size 3X3 and 5X5 are used at different layers to build robustness to intra-class deformations.
+OverFeat\cite{overfeat:cnn} was trained for the image classification task of ImageNet ILSVRC 2013 and obtained very competitive results for the classification task of the 2013 challenge and won the localization task. ILSVRC13 contains 1.2 million images which are hand labelled with the presence/absence of 1000 categories. The images are mostly centered and the dataset is considered less challenging in terms of clutter and occlusion than other object recognition datasets such as PASCAL VOC.
+The thing to remember is that the CNN features used are trained
+only using ImageNet data though the simple classifiers are
+trained using images specific to the task's dataset\cite{offShelf:a}.
+
+For all the experiments, they used the first fully connected layer (layer 22) of the network as their feature vector.The feature vector is further L2 normalized to unit length for all the experiments. They used the 4096 dimensional feature vector in combination with a Support Vector Machine (SVM) to solve different classification tasks (CNN-SVM). They further augment the training set by adding cropped and rotated samples and doing component-wise power transform and report separate results (CNNaug+SVM). The tasks tested are - Image Classification, Object Detection, Attribute detection, Fine grained Recognition and Visual Instance Retrieval .
+
+Figure \ref{fig:offshelf1} and \ref{fig:offshelf2} show the results compared to other approaches for Image Classification on two different datasets Pascal VOC and MIT indoors dataset .  
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/offshelf1.png}
+\end{center}
+\caption{}
+\label{fig:offshelf1}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/offshelf2.png}
+\end{center}
+\caption{}
+\label{fig:offshelf2}
+\end{figure}
+
+The figure \ref{fig:offshelf3} shows us the variation of mean average precision as the we go deeper. We can observe that the mAP is increasing for image classification as we increase the level of the layer . 
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/offshelf3.png}
+\end{center}
+\caption{}
+\label{fig:offshelf3}
+\end{figure}
+
+Fine grained recognition\cite{offShelf:a} has recently become popular due to its huge potential for both commercial and cataloging applications. Fine grained recognition is specially interesting because it involves recognizing subclasses of the same object class such as different bird species, dog breeds, flower types, etc.
+The figures \ref{fig:offshelf4} and \ref{fig:offshelf5} show the results on Caltech UCSD birds dataset and Oxford 102 Flowers dataset for Fine grained Recognition. 
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/offshelf4.png}
+\end{center}
+\caption{}
+\label{fig:offshelf4}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/offshelf5.png}
+\end{center}
+\caption{}
+\label{fig:offshelf5}
+\end{figure}
+
+An attribute within the context of computer vision is defined as some semantic or abstract quality which different instances/categories share.
+The figures \ref{fig:offshelf6} and \ref{fig:offshelf7} show the results for attribute detection on UIUC 64 object attributes dataset and H3D Human Attributes dataset .
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/offshelf6.png}
+\end{center}
+\caption{}
+\label{fig:offshelf6}
+\end{figure}
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/offshelf7.png}
+\end{center}
+\caption{}
+\label{fig:offshelf7}
+\end{figure}
+
+In case of Spatial search \cite{offShelf:a}, the items of interest can appear at different locations and scales in the test and reference images making some form of spatial search necessary. In their crude search
+for each image they extract multiple sub-patches of different sizes at different locations. For each extracted sub-patch they compute its CNN representation. Successful instance retrieval methods have many feature processing steps. They process the extracted 4096 dim features in the following way: L2 normalize , PCA dimensionality reduction , whitening , L2 renormalization \cite{offShelf:a}.
+The figure \ref{fig:offshelf8} shows the result of mAP on 5 different datasets for this task of instance retrieval . 
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/offshelf8.png}
+\end{center}
+\caption{}
+\label{fig:offshelf8}
+\end{figure}
+
+\subsection{Exploiting Local Features from Deep Networks for Image Retrieval}
+Deep convolutional neural networks have been successfully applied to image classification tasks. When these same networks have been applied to image retrieval, the assumption has been made that the last layers would give the best performance, as they do in classification. Joe Yue-Hei Ng et. al \cite{localF:a} show that for instance-level image retrieval, lower layers often perform better than the last layers in convolutional neural networks. Experiments demonstrate that intermediate layers or higher layers with finer scales produce better results for image retrieval, compared to the last layer. When using compressed 128-D VLAD descriptors, their method obtains state-of-the-art results and outperforms other VLAD and CNN based approaches on two out of three test datasets.
+
+Most existing approaches adopt low-level visual features \cite{localF:a}, i.e., SIFT \cite{sift:a} descriptors, and encode them using bag-of-words (BoW) \cite{bow:a}, vector locally aggregated descriptors (VLAD) \cite{vlad:a} or Fisher vectors (FV) \cite{fv:a} and their variants. Since SIFT descriptors capture local characteristics of objects, such as edges and corners, they are particularly suitable for matching local patterns of objects for instance-level image retrieval.
+
+By default CNNs are trained for classification tasks, where features from the final layer (or higher layers) are usually used for decision because they capture more semantic features for category-level classification. However, local characteristics of objects at the instance level are not well preserved at higher levels \cite{localF:a} . Therefore, it is questionable whether it is best to directly extract features from the final layer or higher layers for instance-level image retrieval, where different objects from the same category need to be separated. 
+
+Unlike image classification, which is trained with many labeled data for every category, in instance retrieval generally there is no training data available. Therefore, a pre-trained network is likely to fail to produce good holistic representations that are invariant to translation or viewpoint changes while preserving instance level information. In contrast, local features, which focus on smaller parts of images, are easier to represent and generalize to other object categories while capturing invariance. 
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/local1.png}
+\end{center}
+\caption{}
+\label{fig:local1}
+\end{figure}
+
+The figure \ref{fig:local1} captures the overall idea where the features of the internal layers are extracted and transformed into VLAD descriptors . 
+
+At any particular layer l , they extract pixels horizontally in the sense that each pixel (i,j) is picked up from n$_l$ feature maps to formulate a single feature vector. These vectors are transformed using VLAD \cite{vlad:a}.
+
+Image retrieval is done by calculating the L2 distance between the VLAD descriptors of the query image and database images. They used PCA to compress the original VLAD \cite{vlad:a}descriptors to relatively low-dimensional vectors (128-D), so that the computation of L2 distance can be done efficiently \cite{localF:a}.
+
+\begin{figure}[h]
+\begin{center}
+%\framebox[4.0in]{$\;$}
+\includegraphics[width=7.5cm]{images/local2.png}
+\end{center}
+\caption{}
+\label{fig:local2}
+\end{figure}
+
+
+The figure \ref{fig:local2} shows the trend observed for mean Average Precision using VLAD encoding at different layers.\cite{localF:a} There is a clear trend in the results of both networks (OxfordNet and GoogleNet) on the first scale (solid lines in the figure). The mAP first increases as we go deeper into the network because the convolutional features achieve more invariance, until reaching a peak. However, the performance at higher layers gradually drops since the features are becoming too generalized and less discriminative for instance-level retrieval. 
+
+There is no reason why this can not be observed for recall. The insight gained here is that depending on the task, the layers deem themselves useful . In other words, Image classification did not show this trend but Image instance retrieval did and hence, an experiment in this domain can most certainly prove innovative.  
+
+
+
+\section{Conclusions}
+We come to the conclusion that an experiment in this domain leveraging internal features should most likely provide a better recall. Hopefully, the approaches outlined in this paper provide enough motivation for the project. A couple of other works such as Multi Task CNNs \cite{multitask:cnn} and Hypercolumns \cite{hypercolumn:cnn} give us some more hints to leverage internal distributed representations of the inner layers. Multi task CNNs \cite{multitask:cnn} employed a shared layer of weights across many CNNs. The task in that paper is to perform Attribute Detection for many attributes. In order to do that, authors propose a single CNN for a single attribute. Attributes are also grouped into different groups. The task for each CNN is to make a binary prediction of whether an attribute is present in an image or not. This approach highlights the transferability of CNNs. The transferability comes from a fact that the attributes within the same group share some semantic meaning . This led them to build a CNN with a shared layer . This also made it possible to train some CNN measurably better even if the training samples are not enough. It is because other CNNs already trained the layer to some extent during their own training.
+
+In another work by Bharath Hariharan et. al \cite{hypercolumn:cnn}, they proposed a new concept of Hypercolumns. These hypercolumns are essentially the vectors formulated across layers for a single pixel. The number of neurons in each layer are different and hence they perform upsampling of the feature maps. The advantage of these hypercolumns is that they also capture the location semantics of an artifact in an image. We know that the higher layers ,as we go deeper ,do not hold information regarding the specifics of location due to pooling operations. These feature maps get more invariant as they go deep. Hence, they proved that hypercolumns can improve performance for segmentation tasks\cite{hypercolumn:cnn}.
+This paper discussed various research papers and proposed a few questions to ponder upon . Content Based Image Retrieval gave us a state of the art approach for retrieving images using RBMs . These techniques can be applied to convolutional feature maps for improving recall. Decaf gave us a tool for exploring internal layers and provided some great insight of representative power of hidden units across layers. CAS-CNN provided a means to compress images while introducing hierarchical skip connections . This raised a question as to whether we can fuse part or whole of the layer representations for generating a better descriptor for a better recall. CNN features off the shelf showed the trend for mean Average Precision for image classification while Exploiting local features showed the trend for Image Instance Retrieval. It is learned that higher level features over generalize and it is better to use intermediate and not high layers for similarity search. 
+
+
+%\end{document}  % This is where a 'short' article might terminate
+
+%ACKNOWLEDGMENTS are optional
+
+
+%
+% The following two commands are all you need in the
+% initial runs of your .tex file to
+% produce the bibliography for the citations in your paper.
+\bibliographystyle{abbrv}
+\bibliography{sigproc,local}  % sigproc.bib is the name of the Bibliography in this case
+% You must have a proper ".bib" file
+%  and remember to run:
+% latex bibtex latex latex
+% to resolve all references
+%
+% ACM needs 'a single self-contained file'!
+%
+%APPENDICES are optional
+%\balancecolumns
+
+
+%\balancecolumns % GM June 2007
+% That's all folks!
+\end{document}
