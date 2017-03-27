@@ -1,0 +1,2 @@
+Average Recall is 0.56
+Average Precision is 0.1610612581862581

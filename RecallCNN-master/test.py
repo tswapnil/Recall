@@ -4,17 +4,11 @@ import datetime
 import os
 import shutil
 import PIL
+from sklearn.decomposition import PCA
 
-
-v_data_dir = "/home/swapnil/291G/partData/"
-truthLabelDict = dict()
-truth = open(v_data_dir+'labels.txt','r')
-k=0
-for tLabel in truth:
-    #print(tLabel)
-    if not tLabel or tLabel.isspace():
-        continue
-    truthLabelDict[int(k+1)] = tLabel
-    k=k+1
-    
-print(len(truthLabelDict))
+print("Start")
+pca = PCA()
+X = np.array([[-1, -1], [-2, -1], [-3, -2], [1, 1], [2, 1], [3, 2]])
+X.shape = (2,6);
+pca.fit(X)
+print(pca.transform(X))
